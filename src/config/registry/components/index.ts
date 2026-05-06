@@ -219,7 +219,7 @@ export const components = [
         target: "components/shadcn-space/accordion/accordion-07.tsx",
       },
     ],
-    category: categories["accordion"],    
+    category: categories["accordion"],
   },
   {
     name: "avatar-01",
@@ -3383,7 +3383,7 @@ export const components = [
         target: "components/shadcn-space/dialog/dialog-06.tsx",
       },
     ],
-    category: categories["dialog"], 
+    category: categories["dialog"],
   },
   {
     name: "popover-01",
@@ -3479,7 +3479,7 @@ export const components = [
         target: "components/shadcn-space/popover/popover-06.tsx",
       },
     ],
-    category: categories["popover"],  
+    category: categories["popover"],
   },
   {
     name: "slider-01",

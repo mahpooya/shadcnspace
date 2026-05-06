@@ -12,7 +12,7 @@
       "path": "src/components/shadcn-space/button/button-13.tsx",
       "content": "import { Button } from \"@/components/ui/button\";\r\n\r\nconst ButtonSizeDemo = () => {\r\n  return (\r\n    <Button\r\n      variant=\"default\"\r\n      size={\"xs\"}\r\n      className=\"hover:-translate-y-1 transition-transform duration-200\"\r\n    >\r\n      Button Size: xs\r\n    </Button>\r\n  );\r\n};\r\n\r\nexport default ButtonSizeDemo;\r\n",
       "type": "registry:component",
-      "target": "components/shadcn-space/button/button-13.tsx"
+      "target": "@components/shadcn-space/button/button-13.tsx"
     }
   ],
   "type": "registry:component"

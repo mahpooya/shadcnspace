@@ -416,5 +416,15 @@ export const categories = {
     metaKeyword: "shadcn separator",
     metaTitle: "{count}+ Shadcn Separator Components, Examples & Variants",
     metaDescription: "Explore {count}+ Shadcn Separator components built with React, Tailwind CSS, Base UI. Discover horizontal, vertical, dashed, labeled, gradient, and icon separator examples for modern web projects.",
+  },
+
+  logo: {
+    name: "logo",
+    title: "Logo",
+    metaKeyword: "logo",
+    metaTitle: "Logo - For Some Blocks",
+    metaDescription:
+      "Logo component that will install along with some blocks.",
   }
+
 } as const;
