@@ -13,7 +13,7 @@
       "path": "src/components/shadcn-space/label/label-05.tsx",
       "content": "import { Label } from '@/components/ui/label'\r\nimport { Switch } from '@/components/ui/switch'\r\n\r\nconst LabelWithSwitch = () => {\r\n  return (\r\n    <div className='flex items-center space-x-2'>\r\n      <Switch id='email-notification' className='cursor-pointer' />\r\n      <Label htmlFor='email-notification' className='cursor-pointer'>Email notifications</Label>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default LabelWithSwitch\r\n",
       "type": "registry:component",
-      "target": "components/shadcn-space/label/label-05.tsx"
+      "target": "@components/shadcn-space/label/label-05.tsx"
     }
   ],
   "type": "registry:component"

@@ -24,39 +24,39 @@
           "target": "app/hero-01/page.tsx"
         },
         {
-          "path": "src/assets/logo/logo.tsx",
+          "path": "src/components/assets/logo/logo.tsx",
           "type": "registry:component",
-          "target": "assets/logo/logo.tsx"
+          "target": "@components/assets/logo/logo.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-01/index.tsx",
           "type": "registry:page",
-          "target": "components/shadcn-space/blocks/hero-01/index.tsx"
+          "target": "@components/shadcn-space/blocks/hero-01/index.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-01/hero.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-01/hero.tsx"
+          "target": "@components/shadcn-space/blocks/hero-01/hero.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-01/header.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-01/header.tsx"
+          "target": "@components/shadcn-space/blocks/hero-01/header.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-01/brand-slider.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-01/brand-slider.tsx"
+          "target": "@components/shadcn-space/blocks/hero-01/brand-slider.tsx"
         },
         {
           "path": "src/components/shadcn-space/animations/splash-cursor.jsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animations/splash-cursor.tsx"
+          "target": "@components/shadcn-space/animations/splash-cursor.tsx"
         },
         {
           "path": "src/components/shadcn-space/animations/marquee.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animations/marquee.tsx"
+          "target": "@components/shadcn-space/animations/marquee.tsx"
         }
       ]
     },
@@ -83,27 +83,27 @@
         {
           "path": "src/components/shadcn-space/blocks/hero-02/hero.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-02/hero.tsx"
+          "target": "@components/shadcn-space/blocks/hero-02/hero.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-02/seamless-cloud.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-02/seamless-cloud.tsx"
+          "target": "@components/shadcn-space/blocks/hero-02/seamless-cloud.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-02/navbar.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-02/navbar.tsx"
+          "target": "@components/shadcn-space/blocks/hero-02/navbar.tsx"
         },
         {
           "path": "src/components/shadcn-space/animations/marquee.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animations/marquee.tsx"
+          "target": "@components/shadcn-space/animations/marquee.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-02/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-02/index.tsx"
+          "target": "@components/shadcn-space/blocks/hero-02/index.tsx"
         }
       ]
     },
@@ -128,22 +128,22 @@
         {
           "path": "src/components/shadcn-space/blocks/hero-03/hero.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-03/hero.tsx"
+          "target": "@components/shadcn-space/blocks/hero-03/hero.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-03/navbar.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-03/navbar.tsx"
+          "target": "@components/shadcn-space/blocks/hero-03/navbar.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-03/navlink.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-03/navlink.tsx"
+          "target": "@components/shadcn-space/blocks/hero-03/navlink.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/hero-03/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/hero-03/index.tsx"
+          "target": "@components/shadcn-space/blocks/hero-03/index.tsx"
         }
       ]
     },
@@ -168,12 +168,12 @@
         {
           "path": "src/components/shadcn-space/blocks/feature-01/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/feature-01/index.tsx"
+          "target": "@components/shadcn-space/blocks/feature-01/index.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/feature-01/feature.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/feature-01/feature.tsx"
+          "target": "@components/shadcn-space/blocks/feature-01/feature.tsx"
         }
       ]
     },
@@ -200,12 +200,12 @@
         {
           "path": "src/components/shadcn-space/blocks/feature-02/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/feature-02/index.tsx"
+          "target": "@components/shadcn-space/blocks/feature-02/index.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/feature-02/feature.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/feature-02/feature.tsx"
+          "target": "@components/shadcn-space/blocks/feature-02/feature.tsx"
         }
       ]
     },
@@ -227,12 +227,12 @@
         {
           "path": "src/components/shadcn-space/blocks/about-us-01/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/about-us-01/index.tsx"
+          "target": "@components/shadcn-space/blocks/about-us-01/index.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/about-us-01/about-us.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/about-us-01/about-us.tsx"
+          "target": "@components/shadcn-space/blocks/about-us-01/about-us.tsx"
         }
       ]
     },
@@ -260,7 +260,7 @@
         {
           "path": "src/components/shadcn-space/blocks/pricing-01/pricing.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/pricing-01/pricing.tsx"
+          "target": "@components/shadcn-space/blocks/pricing-01/pricing.tsx"
         }
       ]
     },
@@ -288,7 +288,7 @@
         {
           "path": "src/components/shadcn-space/blocks/pricing-02/pricing.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/pricing-02/pricing.tsx"
+          "target": "@components/shadcn-space/blocks/pricing-02/pricing.tsx"
         }
       ]
     },
@@ -313,7 +313,7 @@
         {
           "path": "src/components/shadcn-space/blocks/testimonial-01/testimonial.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/testimonial-01/testimonial.tsx"
+          "target": "@components/shadcn-space/blocks/testimonial-01/testimonial.tsx"
         }
       ]
     },
@@ -339,22 +339,22 @@
         {
           "path": "src/components/shadcn-space/blocks/testimonial-02/testimonial.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/testimonial-02/testimonial.tsx"
+          "target": "@components/shadcn-space/blocks/testimonial-02/testimonial.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/testimonial-02/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/testimonial-02/index.tsx"
+          "target": "@components/shadcn-space/blocks/testimonial-02/index.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/testimonial-02/brand-slider.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/testimonial-02/brand-slider.tsx"
+          "target": "@components/shadcn-space/blocks/testimonial-02/brand-slider.tsx"
         },
         {
           "path": "src/components/shadcn-space/animations/marquee.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animations/marquee.tsx"
+          "target": "@components/shadcn-space/animations/marquee.tsx"
         }
       ]
     },
@@ -379,7 +379,7 @@
         {
           "path": "src/components/shadcn-space/blocks/portfolio-01/portfolio.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/portfolio-01/portfolio.tsx"
+          "target": "@components/shadcn-space/blocks/portfolio-01/portfolio.tsx"
         }
       ]
     },
@@ -403,7 +403,7 @@
         {
           "path": "src/components/shadcn-space/blocks/team-01/team.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/team-01/team.tsx"
+          "target": "@components/shadcn-space/blocks/team-01/team.tsx"
         }
       ]
     },
@@ -425,7 +425,7 @@
         {
           "path": "src/components/shadcn-space/blocks/team-02/team.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/team-02/team.tsx"
+          "target": "@components/shadcn-space/blocks/team-02/team.tsx"
         }
       ]
     },
@@ -450,7 +450,7 @@
         {
           "path": "src/components/shadcn-space/blocks/cta-01/cta.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/cta-01/cta.tsx"
+          "target": "@components/shadcn-space/blocks/cta-01/cta.tsx"
         }
       ]
     },
@@ -474,12 +474,12 @@
         {
           "path": "src/components/shadcn-space/blocks/cta-02/cta.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/cta-02/cta.tsx"
+          "target": "@components/shadcn-space/blocks/cta-02/cta.tsx"
         },
         {
           "path": "src/components/shadcn-space/animations/marquee.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animations/marquee.tsx"
+          "target": "@components/shadcn-space/animations/marquee.tsx"
         }
       ]
     },
@@ -506,7 +506,7 @@
         {
           "path": "src/components/shadcn-space/blocks/services-01/services.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/services-01/services.tsx"
+          "target": "@components/shadcn-space/blocks/services-01/services.tsx"
         }
       ]
     },
@@ -531,7 +531,7 @@
         {
           "path": "src/components/shadcn-space/blocks/services-02/services.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/services-02/services.tsx"
+          "target": "@components/shadcn-space/blocks/services-02/services.tsx"
         }
       ]
     },
@@ -556,7 +556,7 @@
         {
           "path": "src/components/shadcn-space/blocks/faq-01/faq.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/faq-01/faq.tsx"
+          "target": "@components/shadcn-space/blocks/faq-01/faq.tsx"
         }
       ]
     },
@@ -580,7 +580,7 @@
         {
           "path": "src/components/shadcn-space/blocks/newsletter-01/newsletter.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/newsletter-01/newsletter.tsx"
+          "target": "@components/shadcn-space/blocks/newsletter-01/newsletter.tsx"
         }
       ]
     },
@@ -605,7 +605,7 @@
         {
           "path": "src/components/shadcn-space/blocks/blog-01/blog.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/blog-01/blog.tsx"
+          "target": "@components/shadcn-space/blocks/blog-01/blog.tsx"
         }
       ]
     },
@@ -636,22 +636,22 @@
         {
           "path": "src/components/shadcn-space/blocks/contact-01/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/contact-01/index.tsx"
+          "target": "@components/shadcn-space/blocks/contact-01/index.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/contact-01/contact-info.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/contact-01/contact-info.tsx"
+          "target": "@components/shadcn-space/blocks/contact-01/contact-info.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/contact-01/contact-form.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/contact-01/contact-form.tsx"
+          "target": "@components/shadcn-space/blocks/contact-01/contact-form.tsx"
         },
         {
           "path": "src/components/shadcn-space/animations/marquee.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animations/marquee.tsx"
+          "target": "@components/shadcn-space/animations/marquee.tsx"
         }
       ]
     },
@@ -675,9 +675,14 @@
           "target": "app/navbar-01/page.tsx"
         },
         {
+          "path": "src/components/assets/logo/logo.tsx",
+          "type": "registry:component",
+          "target": "@components/assets/logo/logo.tsx"
+        },
+        {
           "path": "src/components/shadcn-space/blocks/navbar-01/navbar.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/navbar-01/navbar.tsx"
+          "target": "@components/shadcn-space/blocks/navbar-01/navbar.tsx"
         }
       ]
     },
@@ -697,14 +702,14 @@
           "target": "app/footer-01/page.tsx"
         },
         {
-          "path": "src/assets/logo/logo.tsx",
+          "path": "src/components/assets/logo/logo.tsx",
           "type": "registry:component",
-          "target": "assets/logo/logo.tsx"
+          "target": "@components/assets/logo/logo.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/footer-01/footer.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/footer-01/footer.tsx"
+          "target": "@components/shadcn-space/blocks/footer-01/footer.tsx"
         }
       ]
     },
@@ -728,7 +733,7 @@
         {
           "path": "src/components/shadcn-space/blocks/footer-02/footer.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/footer-02/footer.tsx"
+          "target": "@components/shadcn-space/blocks/footer-02/footer.tsx"
         }
       ]
     },
@@ -754,14 +759,14 @@
           "target": "app/sidebar-01/page.tsx"
         },
         {
-          "path": "src/assets/logo/logo.tsx",
+          "path": "src/components/assets/logo/logo.tsx",
           "type": "registry:component",
-          "target": "assets/logo/logo.tsx"
+          "target": "@components/assets/logo/logo.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/sidebar-01/nav-main.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/sidebar-01/nav-main.tsx"
+          "target": "@components/shadcn-space/blocks/sidebar-01/nav-main.tsx"
         }
       ]
     },
@@ -788,7 +793,7 @@
         {
           "path": "src/components/shadcn-space/blocks/statistics-01/statistics.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/statistics-01/statistics.tsx"
+          "target": "@components/shadcn-space/blocks/statistics-01/statistics.tsx"
         }
       ]
     },
@@ -813,7 +818,7 @@
         {
           "path": "src/components/shadcn-space/blocks/statistics-02/statistics.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/statistics-02/statistics.tsx"
+          "target": "@components/shadcn-space/blocks/statistics-02/statistics.tsx"
         }
       ]
     },
@@ -839,7 +844,7 @@
         {
           "path": "src/components/shadcn-space/blocks/chart-01/chart.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/chart-01/chart.tsx"
+          "target": "@components/shadcn-space/blocks/chart-01/chart.tsx"
         }
       ]
     },
@@ -865,7 +870,7 @@
         {
           "path": "src/components/shadcn-space/blocks/chart-02/chart.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/chart-02/chart.tsx"
+          "target": "@components/shadcn-space/blocks/chart-02/chart.tsx"
         }
       ]
     },
@@ -892,7 +897,7 @@
         {
           "path": "src/components/shadcn-space/blocks/chart-03/chart.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/chart-03/chart.tsx"
+          "target": "@components/shadcn-space/blocks/chart-03/chart.tsx"
         }
       ]
     },
@@ -919,7 +924,7 @@
         {
           "path": "src/components/shadcn-space/blocks/chart-04/chart.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/chart-04/chart.tsx"
+          "target": "@components/shadcn-space/blocks/chart-04/chart.tsx"
         }
       ]
     },
@@ -942,17 +947,17 @@
         {
           "path": "src/components/shadcn-space/blocks/bento-grid-01/bentogrid.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/bento-grid-01/bentogrid.tsx"
+          "target": "@components/shadcn-space/blocks/bento-grid-01/bentogrid.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/bento-grid-01/AnimatedUiBlock.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/bento-grid-01/AnimatedUiBlock.tsx"
+          "target": "@components/shadcn-space/blocks/bento-grid-01/AnimatedUiBlock.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/bento-grid-01/ReminderAnimation.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/bento-grid-01/ReminderAnimation.tsx"
+          "target": "@components/shadcn-space/blocks/bento-grid-01/ReminderAnimation.tsx"
         }
       ]
     },
@@ -978,7 +983,9 @@
         "separator",
         "checkbox",
         "progress",
-        "table"
+        "table",
+        "avatar",
+        "input-group"
       ],
       "files": [
         {
@@ -989,42 +996,57 @@
         {
           "path": "src/components/shadcn-space/blocks/dashboard-shell-01/salesbycountrywidget.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dashboard-shell-01/salesbycountrywidget.tsx"
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/salesbycountrywidget.tsx"
+        },
+        {
+          "path": "src/components/shadcn-space/blocks/dashboard-shell-01/notification-dropdown.tsx",
+          "type": "registry:component",
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/notification-dropdown.tsx"
+        },
+        {
+          "path": "src/components/shadcn-space/blocks/dashboard-shell-01/user-dropdown.tsx",
+          "type": "registry:component",
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/user-dropdown.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/dashboard-shell-01/site-header.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dashboard-shell-01/site-header.tsx"
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/site-header.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/dashboard-shell-01/top-product-table.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dashboard-shell-01/top-product-table.tsx"
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/top-product-table.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/dashboard-shell-01/statistics.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dashboard-shell-01/statistics.tsx"
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/statistics.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/dashboard-shell-01/sales-overview-chart.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dashboard-shell-01/sales-overview-chart.tsx"
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/sales-overview-chart.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/dashboard-shell-01/nav-main.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dashboard-shell-01/nav-main.tsx"
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/nav-main.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/dashboard-shell-01/earning-report-chart.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dashboard-shell-01/earning-report-chart.tsx"
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/earning-report-chart.tsx"
+        },
+        {
+          "path": "src/components/assets/logo/logo.tsx",
+          "type": "registry:component",
+          "target": "@components/assets/logo/logo.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/dashboard-shell-01/app-sidebar.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dashboard-shell-01/app-sidebar.tsx"
+          "target": "@components/shadcn-space/blocks/dashboard-shell-01/app-sidebar.tsx"
         }
       ]
     },
@@ -1052,7 +1074,7 @@
         {
           "path": "src/components/shadcn-space/blocks/dialog-block-01/dialog.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/dialog-block-01/dialog.tsx"
+          "target": "@components/shadcn-space/blocks/dialog-block-01/dialog.tsx"
         }
       ]
     },
@@ -1079,7 +1101,7 @@
         {
           "path": "src/components/shadcn-space/blocks/forgot-password-01/forgot-password.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/forgot-password-01/forgot-password.tsx"
+          "target": "@components/shadcn-space/blocks/forgot-password-01/forgot-password.tsx"
         }
       ]
     },
@@ -1106,7 +1128,7 @@
         {
           "path": "src/components/shadcn-space/blocks/forms-01/profile-form.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/forms-01/profile-form.tsx"
+          "target": "@components/shadcn-space/blocks/forms-01/profile-form.tsx"
         }
       ]
     },
@@ -1128,7 +1150,7 @@
         {
           "path": "src/components/shadcn-space/blocks/gallery-01/gallery.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/gallery-01/gallery.tsx"
+          "target": "@components/shadcn-space/blocks/gallery-01/gallery.tsx"
         }
       ]
     },
@@ -1156,7 +1178,7 @@
         {
           "path": "src/components/shadcn-space/blocks/login-01/login.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/login-01/login.tsx"
+          "target": "@components/shadcn-space/blocks/login-01/login.tsx"
         }
       ]
     },
@@ -1178,12 +1200,12 @@
         {
           "path": "src/components/shadcn-space/blocks/logo-cloud-01/logo-cloud.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/logo-cloud-01/logo-cloud.tsx"
+          "target": "@components/shadcn-space/blocks/logo-cloud-01/logo-cloud.tsx"
         },
         {
           "path": "src/components/shadcn-space/animations/marquee.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animations/marquee.tsx"
+          "target": "@components/shadcn-space/animations/marquee.tsx"
         }
       ]
     },
@@ -1210,7 +1232,7 @@
         {
           "path": "src/components/shadcn-space/blocks/register-01/register.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/register-01/register.tsx"
+          "target": "@components/shadcn-space/blocks/register-01/register.tsx"
         }
       ]
     },
@@ -1239,7 +1261,7 @@
         {
           "path": "src/components/shadcn-space/blocks/table-01/table.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/table-01/table.tsx"
+          "target": "@components/shadcn-space/blocks/table-01/table.tsx"
         }
       ]
     },
@@ -1268,12 +1290,12 @@
         {
           "path": "src/components/shadcn-space/blocks/topbar-01/dropdown-language.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/topbar-01/dropdown-language.tsx"
+          "target": "@components/shadcn-space/blocks/topbar-01/dropdown-language.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/topbar-01/dropdown-profile.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/topbar-01/dropdown-profile.tsx"
+          "target": "@components/shadcn-space/blocks/topbar-01/dropdown-profile.tsx"
         }
       ]
     },
@@ -1300,7 +1322,7 @@
         {
           "path": "src/components/shadcn-space/blocks/two-factor-authentication-01/two-factor-auth.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/two-factor-authentication-01/two-factor-auth.tsx"
+          "target": "@components/shadcn-space/blocks/two-factor-authentication-01/two-factor-auth.tsx"
         }
       ]
     },
@@ -1326,7 +1348,7 @@
         {
           "path": "src/components/shadcn-space/blocks/verify-email-01/verify-email.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/verify-email-01/verify-email.tsx"
+          "target": "@components/shadcn-space/blocks/verify-email-01/verify-email.tsx"
         }
       ]
     },
@@ -1352,7 +1374,7 @@
         {
           "path": "src/components/shadcn-space/blocks/widget-01/widget.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/widget-01/widget.tsx"
+          "target": "@components/shadcn-space/blocks/widget-01/widget.tsx"
         }
       ]
     },
@@ -1380,7 +1402,7 @@
         {
           "path": "src/components/shadcn-space/blocks/widget-02/widget.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/widget-02/widget.tsx"
+          "target": "@components/shadcn-space/blocks/widget-02/widget.tsx"
         }
       ]
     },
@@ -1408,12 +1430,12 @@
         {
           "path": "src/components/shadcn-space/blocks/product-overview-01/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/product-overview-01/index.tsx"
+          "target": "@components/shadcn-space/blocks/product-overview-01/index.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/product-overview-01/product-overview.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/product-overview-01/product-overview.tsx"
+          "target": "@components/shadcn-space/blocks/product-overview-01/product-overview.tsx"
         }
       ]
     },
@@ -1436,7 +1458,7 @@
         {
           "path": "src/components/shadcn-space/blocks/product-category-01/product-category.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/product-category-01/product-category.tsx"
+          "target": "@components/shadcn-space/blocks/product-category-01/product-category.tsx"
         }
       ]
     },
@@ -1461,7 +1483,7 @@
         {
           "path": "src/components/shadcn-space/blocks/product-category-02/product-category.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/product-category-02/product-category.tsx"
+          "target": "@components/shadcn-space/blocks/product-category-02/product-category.tsx"
         }
       ]
     },
@@ -1487,12 +1509,12 @@
         {
           "path": "src/components/shadcn-space/blocks/product-listing-01/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/product-listing-01/index.tsx"
+          "target": "@components/shadcn-space/blocks/product-listing-01/index.tsx"
         },
         {
           "path": "src/components/shadcn-space/blocks/product-listing-01/product-card.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/product-listing-01/product-card.tsx"
+          "target": "@components/shadcn-space/blocks/product-listing-01/product-card.tsx"
         }
       ]
     },
@@ -1521,7 +1543,7 @@
         {
           "path": "src/components/shadcn-space/blocks/checkout-01/index.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/blocks/checkout-01/index.tsx"
+          "target": "@components/shadcn-space/blocks/checkout-01/index.tsx"
         }
       ]
     },
@@ -1540,7 +1562,7 @@
         {
           "path": "src/components/shadcn-space/apple-dock/apple-dock.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/apple-dock/apple-dock.tsx"
+          "target": "@components/shadcn-space/apple-dock/apple-dock.tsx"
         }
       ]
     },
@@ -1557,12 +1579,12 @@
         {
           "path": "src/components/shadcn-space/orbiting-circles/orbiting-circles.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/orbiting-circles/orbiting-circles.tsx"
+          "target": "@components/shadcn-space/orbiting-circles/orbiting-circles.tsx"
         },
         {
           "path": "src/components/shadcn-space/orbiting-circles/orbiting-circles.css",
           "type": "registry:style",
-          "target": "components/shadcn-space/orbiting-circles/orbiting-circles.css"
+          "target": "@components/shadcn-space/orbiting-circles/orbiting-circles.css"
         }
       ]
     },
@@ -1579,7 +1601,7 @@
         {
           "path": "src/components/shadcn-space/animated-list/animated-list-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-list/animated-list-01.tsx"
+          "target": "@components/shadcn-space/animated-list/animated-list-01.tsx"
         }
       ]
     },
@@ -1597,7 +1619,7 @@
         {
           "path": "src/components/shadcn-space/animated-list/animated-list-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-list/animated-list-02.tsx"
+          "target": "@components/shadcn-space/animated-list/animated-list-02.tsx"
         }
       ]
     },
@@ -1617,7 +1639,7 @@
         {
           "path": "src/components/shadcn-space/animated-list/animated-list-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-list/animated-list-03.tsx"
+          "target": "@components/shadcn-space/animated-list/animated-list-03.tsx"
         }
       ]
     },
@@ -1636,12 +1658,12 @@
         {
           "path": "src/components/shadcn-space/marquee/marquee-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/marquee/marquee-02.tsx"
+          "target": "@components/shadcn-space/marquee/marquee-02.tsx"
         },
         {
           "path": "src/components/shadcn-space/animations/marquee.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animations/marquee.tsx"
+          "target": "@components/shadcn-space/animations/marquee.tsx"
         }
       ]
     },
@@ -1660,7 +1682,7 @@
         {
           "path": "src/components/shadcn-space/accordion/accordion-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/accordion/accordion-01.tsx"
+          "target": "@components/shadcn-space/accordion/accordion-01.tsx"
         }
       ]
     },
@@ -1680,7 +1702,7 @@
         {
           "path": "src/components/shadcn-space/accordion/accordion-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/accordion/accordion-02.tsx"
+          "target": "@components/shadcn-space/accordion/accordion-02.tsx"
         }
       ]
     },
@@ -1699,7 +1721,7 @@
         {
           "path": "src/components/shadcn-space/accordion/accordion-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/accordion/accordion-03.tsx"
+          "target": "@components/shadcn-space/accordion/accordion-03.tsx"
         }
       ]
     },
@@ -1718,7 +1740,7 @@
         {
           "path": "src/components/shadcn-space/accordion/accordion-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/accordion/accordion-04.tsx"
+          "target": "@components/shadcn-space/accordion/accordion-04.tsx"
         }
       ]
     },
@@ -1737,7 +1759,7 @@
         {
           "path": "src/components/shadcn-space/accordion/accordion-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/accordion/accordion-05.tsx"
+          "target": "@components/shadcn-space/accordion/accordion-05.tsx"
         }
       ]
     },
@@ -1754,7 +1776,7 @@
         {
           "path": "src/components/shadcn-space/accordion/accordion-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/accordion/accordion-06.tsx"
+          "target": "@components/shadcn-space/accordion/accordion-06.tsx"
         }
       ]
     },
@@ -1774,7 +1796,7 @@
         {
           "path": "src/components/shadcn-space/accordion/accordion-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/accordion/accordion-07.tsx"
+          "target": "@components/shadcn-space/accordion/accordion-07.tsx"
         }
       ]
     },
@@ -1791,7 +1813,7 @@
         {
           "path": "src/components/shadcn-space/avatar/avatar-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/avatar/avatar-01.tsx"
+          "target": "@components/shadcn-space/avatar/avatar-01.tsx"
         }
       ]
     },
@@ -1808,7 +1830,7 @@
         {
           "path": "src/components/shadcn-space/avatar/avatar-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/avatar/avatar-02.tsx"
+          "target": "@components/shadcn-space/avatar/avatar-02.tsx"
         }
       ]
     },
@@ -1827,7 +1849,7 @@
         {
           "path": "src/components/shadcn-space/avatar/avatar-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/avatar/avatar-03.tsx"
+          "target": "@components/shadcn-space/avatar/avatar-03.tsx"
         }
       ]
     },
@@ -1846,7 +1868,7 @@
         {
           "path": "src/components/shadcn-space/avatar/avatar-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/avatar/avatar-04.tsx"
+          "target": "@components/shadcn-space/avatar/avatar-04.tsx"
         }
       ]
     },
@@ -1863,7 +1885,7 @@
         {
           "path": "src/components/shadcn-space/avatar/avatar-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/avatar/avatar-05.tsx"
+          "target": "@components/shadcn-space/avatar/avatar-05.tsx"
         }
       ]
     },
@@ -1882,7 +1904,7 @@
         {
           "path": "src/components/shadcn-space/avatar/avatar-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/avatar/avatar-06.tsx"
+          "target": "@components/shadcn-space/avatar/avatar-06.tsx"
         }
       ]
     },
@@ -1902,7 +1924,7 @@
         {
           "path": "src/components/shadcn-space/avatar/avatar-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/avatar/avatar-07.tsx"
+          "target": "@components/shadcn-space/avatar/avatar-07.tsx"
         }
       ]
     },
@@ -1919,7 +1941,7 @@
         {
           "path": "src/components/shadcn-space/avatar/avatar-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/avatar/avatar-08.tsx"
+          "target": "@components/shadcn-space/avatar/avatar-08.tsx"
         }
       ]
     },
@@ -1938,7 +1960,7 @@
         {
           "path": "src/components/shadcn-space/button/button-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-01.tsx"
+          "target": "@components/shadcn-space/button/button-01.tsx"
         }
       ]
     },
@@ -1955,12 +1977,12 @@
         {
           "path": "src/components/shadcn-space/button/button-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-02.tsx"
+          "target": "@components/shadcn-space/button/button-02.tsx"
         },
         {
           "path": "src/components/shadcn-space/button/button-02.css",
           "type": "registry:style",
-          "target": "components/shadcn-space/button/button-02.css"
+          "target": "@components/shadcn-space/button/button-02.css"
         }
       ]
     },
@@ -1977,7 +1999,7 @@
         {
           "path": "src/components/shadcn-space/button/button-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-03.tsx"
+          "target": "@components/shadcn-space/button/button-03.tsx"
         }
       ]
     },
@@ -1994,12 +2016,12 @@
         {
           "path": "src/components/shadcn-space/button/button-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-04.tsx"
+          "target": "@components/shadcn-space/button/button-04.tsx"
         },
         {
           "path": "src/components/shadcn-space/button/button-04.css",
           "type": "registry:style",
-          "target": "components/shadcn-space/button/button-04.css"
+          "target": "@components/shadcn-space/button/button-04.css"
         }
       ]
     },
@@ -2016,7 +2038,7 @@
         {
           "path": "src/components/shadcn-space/button/button-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-05.tsx"
+          "target": "@components/shadcn-space/button/button-05.tsx"
         }
       ]
     },
@@ -2035,7 +2057,7 @@
         {
           "path": "src/components/shadcn-space/button/button-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-06.tsx"
+          "target": "@components/shadcn-space/button/button-06.tsx"
         }
       ]
     },
@@ -2052,7 +2074,7 @@
         {
           "path": "src/components/shadcn-space/button/button-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-07.tsx"
+          "target": "@components/shadcn-space/button/button-07.tsx"
         }
       ]
     },
@@ -2069,7 +2091,7 @@
         {
           "path": "src/components/shadcn-space/button/button-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-08.tsx"
+          "target": "@components/shadcn-space/button/button-08.tsx"
         }
       ]
     },
@@ -2088,7 +2110,7 @@
         {
           "path": "src/components/shadcn-space/button/button-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-09.tsx"
+          "target": "@components/shadcn-space/button/button-09.tsx"
         }
       ]
     },
@@ -2107,7 +2129,7 @@
         {
           "path": "src/components/shadcn-space/button/button-10.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-10.tsx"
+          "target": "@components/shadcn-space/button/button-10.tsx"
         }
       ]
     },
@@ -2126,7 +2148,7 @@
         {
           "path": "src/components/shadcn-space/button/button-11.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-11.tsx"
+          "target": "@components/shadcn-space/button/button-11.tsx"
         }
       ]
     },
@@ -2143,7 +2165,7 @@
         {
           "path": "src/components/shadcn-space/button/button-12.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-12.tsx"
+          "target": "@components/shadcn-space/button/button-12.tsx"
         }
       ]
     },
@@ -2160,7 +2182,7 @@
         {
           "path": "src/components/shadcn-space/button/button-13.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-13.tsx"
+          "target": "@components/shadcn-space/button/button-13.tsx"
         }
       ]
     },
@@ -2177,7 +2199,7 @@
         {
           "path": "src/components/shadcn-space/button/button-14.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-14.tsx"
+          "target": "@components/shadcn-space/button/button-14.tsx"
         }
       ]
     },
@@ -2194,7 +2216,7 @@
         {
           "path": "src/components/shadcn-space/button/button-15.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-15.tsx"
+          "target": "@components/shadcn-space/button/button-15.tsx"
         }
       ]
     },
@@ -2211,7 +2233,7 @@
         {
           "path": "src/components/shadcn-space/button/button-16.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-16.tsx"
+          "target": "@components/shadcn-space/button/button-16.tsx"
         }
       ]
     },
@@ -2228,7 +2250,7 @@
         {
           "path": "src/components/shadcn-space/button/button-17.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-17.tsx"
+          "target": "@components/shadcn-space/button/button-17.tsx"
         }
       ]
     },
@@ -2247,7 +2269,7 @@
         {
           "path": "src/components/shadcn-space/button/button-18.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-18.tsx"
+          "target": "@components/shadcn-space/button/button-18.tsx"
         }
       ]
     },
@@ -2266,7 +2288,7 @@
         {
           "path": "src/components/shadcn-space/button/button-19.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button/button-19.tsx"
+          "target": "@components/shadcn-space/button/button-19.tsx"
         }
       ]
     },
@@ -2286,7 +2308,7 @@
         {
           "path": "src/components/shadcn-space/button-group/button-group-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button-group/button-group-01.tsx"
+          "target": "@components/shadcn-space/button-group/button-group-01.tsx"
         }
       ]
     },
@@ -2306,7 +2328,7 @@
         {
           "path": "src/components/shadcn-space/button-group/button-group-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button-group/button-group-02.tsx"
+          "target": "@components/shadcn-space/button-group/button-group-02.tsx"
         }
       ]
     },
@@ -2326,7 +2348,7 @@
         {
           "path": "src/components/shadcn-space/button-group/button-group-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button-group/button-group-03.tsx"
+          "target": "@components/shadcn-space/button-group/button-group-03.tsx"
         }
       ]
     },
@@ -2346,7 +2368,7 @@
         {
           "path": "src/components/shadcn-space/button-group/button-group-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button-group/button-group-04.tsx"
+          "target": "@components/shadcn-space/button-group/button-group-04.tsx"
         }
       ]
     },
@@ -2364,7 +2386,7 @@
         {
           "path": "src/components/shadcn-space/button-group/button-group-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button-group/button-group-05.tsx"
+          "target": "@components/shadcn-space/button-group/button-group-05.tsx"
         }
       ]
     },
@@ -2384,7 +2406,7 @@
         {
           "path": "src/components/shadcn-space/button-group/button-group-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/button-group/button-group-06.tsx"
+          "target": "@components/shadcn-space/button-group/button-group-06.tsx"
         }
       ]
     },
@@ -2401,7 +2423,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-01.tsx"
+          "target": "@components/shadcn-space/badge/badge-01.tsx"
         }
       ]
     },
@@ -2418,7 +2440,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-02.tsx"
+          "target": "@components/shadcn-space/badge/badge-02.tsx"
         }
       ]
     },
@@ -2435,7 +2457,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-03.tsx"
+          "target": "@components/shadcn-space/badge/badge-03.tsx"
         }
       ]
     },
@@ -2454,7 +2476,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-04.tsx"
+          "target": "@components/shadcn-space/badge/badge-04.tsx"
         }
       ]
     },
@@ -2473,7 +2495,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-05.tsx"
+          "target": "@components/shadcn-space/badge/badge-05.tsx"
         }
       ]
     },
@@ -2490,7 +2512,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-06.tsx"
+          "target": "@components/shadcn-space/badge/badge-06.tsx"
         }
       ]
     },
@@ -2510,7 +2532,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-07.tsx"
+          "target": "@components/shadcn-space/badge/badge-07.tsx"
         }
       ]
     },
@@ -2530,7 +2552,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-08.tsx"
+          "target": "@components/shadcn-space/badge/badge-08.tsx"
         }
       ]
     },
@@ -2550,7 +2572,7 @@
         {
           "path": "src/components/shadcn-space/badge/badge-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/badge/badge-09.tsx"
+          "target": "@components/shadcn-space/badge/badge-09.tsx"
         }
       ]
     },
@@ -2569,7 +2591,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-01.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-01.tsx"
         }
       ]
     },
@@ -2588,7 +2610,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-02.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-02.tsx"
         }
       ]
     },
@@ -2609,7 +2631,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-03.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-03.tsx"
         }
       ]
     },
@@ -2631,7 +2653,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-04.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-04.tsx"
         }
       ]
     },
@@ -2652,7 +2674,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-05.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-05.tsx"
         }
       ]
     },
@@ -2671,7 +2693,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-06.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-06.tsx"
         }
       ]
     },
@@ -2688,7 +2710,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-07.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-07.tsx"
         }
       ]
     },
@@ -2709,7 +2731,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-08.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-08.tsx"
         }
       ]
     },
@@ -2728,7 +2750,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-09.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-09.tsx"
         }
       ]
     },
@@ -2748,7 +2770,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-10.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-10.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-10.tsx"
         }
       ]
     },
@@ -2768,7 +2790,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-11.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-11.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-11.tsx"
         }
       ]
     },
@@ -2787,7 +2809,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-12.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-12.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-12.tsx"
         }
       ]
     },
@@ -2810,7 +2832,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-13.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-13.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-13.tsx"
         }
       ]
     },
@@ -2833,7 +2855,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-14.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-14.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-14.tsx"
         }
       ]
     },
@@ -2854,7 +2876,7 @@
         {
           "path": "src/components/shadcn-space/calendar/calendar-15.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/calendar/calendar-15.tsx"
+          "target": "@components/shadcn-space/calendar/calendar-15.tsx"
         }
       ]
     },
@@ -2875,7 +2897,7 @@
         {
           "path": "src/components/shadcn-space/tooltip/tooltip-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tooltip/tooltip-01.tsx"
+          "target": "@components/shadcn-space/tooltip/tooltip-01.tsx"
         }
       ]
     },
@@ -2895,7 +2917,7 @@
         {
           "path": "src/components/shadcn-space/tooltip/tooltip-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tooltip/tooltip-02.tsx"
+          "target": "@components/shadcn-space/tooltip/tooltip-02.tsx"
         }
       ]
     },
@@ -2912,7 +2934,7 @@
         {
           "path": "src/components/shadcn-space/tooltip/tooltip-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tooltip/tooltip-03.tsx"
+          "target": "@components/shadcn-space/tooltip/tooltip-03.tsx"
         }
       ]
     },
@@ -2930,7 +2952,7 @@
         {
           "path": "src/components/shadcn-space/tooltip/tooltip-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tooltip/tooltip-04.tsx"
+          "target": "@components/shadcn-space/tooltip/tooltip-04.tsx"
         }
       ]
     },
@@ -2948,7 +2970,7 @@
         {
           "path": "src/components/shadcn-space/tooltip/tooltip-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tooltip/tooltip-05.tsx"
+          "target": "@components/shadcn-space/tooltip/tooltip-05.tsx"
         }
       ]
     },
@@ -2967,7 +2989,7 @@
         {
           "path": "src/components/shadcn-space/tooltip/tooltip-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tooltip/tooltip-06.tsx"
+          "target": "@components/shadcn-space/tooltip/tooltip-06.tsx"
         }
       ]
     },
@@ -2985,7 +3007,7 @@
         {
           "path": "src/components/shadcn-space/tooltip/tooltip-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tooltip/tooltip-07.tsx"
+          "target": "@components/shadcn-space/tooltip/tooltip-07.tsx"
         }
       ]
     },
@@ -3000,12 +3022,12 @@
         {
           "path": "src/components/shadcn-space/animated-text/animated-text-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-text/animated-text-01.tsx"
+          "target": "@components/shadcn-space/animated-text/animated-text-01.tsx"
         },
         {
           "path": "src/components/shadcn-space/animated-text/animated-text-01.css",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-text/animated-text-01.css"
+          "target": "@components/shadcn-space/animated-text/animated-text-01.css"
         }
       ]
     },
@@ -3020,7 +3042,7 @@
         {
           "path": "src/components/shadcn-space/animated-text/animated-text-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-text/animated-text-02.tsx"
+          "target": "@components/shadcn-space/animated-text/animated-text-02.tsx"
         }
       ]
     },
@@ -3035,7 +3057,7 @@
         {
           "path": "src/components/shadcn-space/animated-text/animated-text-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-text/animated-text-03.tsx"
+          "target": "@components/shadcn-space/animated-text/animated-text-03.tsx"
         }
       ]
     },
@@ -3050,7 +3072,7 @@
         {
           "path": "src/components/shadcn-space/animated-text/animated-text-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-text/animated-text-04.tsx"
+          "target": "@components/shadcn-space/animated-text/animated-text-04.tsx"
         }
       ]
     },
@@ -3065,7 +3087,7 @@
         {
           "path": "src/components/shadcn-space/animated-text/animated-text-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-text/animated-text-05.tsx"
+          "target": "@components/shadcn-space/animated-text/animated-text-05.tsx"
         }
       ]
     },
@@ -3082,7 +3104,7 @@
         {
           "path": "src/components/shadcn-space/animated-text/animated-text-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-text/animated-text-06.tsx"
+          "target": "@components/shadcn-space/animated-text/animated-text-06.tsx"
         }
       ]
     },
@@ -3099,7 +3121,7 @@
         {
           "path": "src/components/shadcn-space/animated-text/animated-text-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/animated-text/animated-text-07.tsx"
+          "target": "@components/shadcn-space/animated-text/animated-text-07.tsx"
         }
       ]
     },
@@ -3119,7 +3141,7 @@
         {
           "path": "src/components/shadcn-space/input/input-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-01.tsx"
+          "target": "@components/shadcn-space/input/input-01.tsx"
         }
       ]
     },
@@ -3139,7 +3161,7 @@
         {
           "path": "src/components/shadcn-space/input/input-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-02.tsx"
+          "target": "@components/shadcn-space/input/input-02.tsx"
         }
       ]
     },
@@ -3159,7 +3181,7 @@
         {
           "path": "src/components/shadcn-space/input/input-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-03.tsx"
+          "target": "@components/shadcn-space/input/input-03.tsx"
         }
       ]
     },
@@ -3178,7 +3200,7 @@
         {
           "path": "src/components/shadcn-space/input/input-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-04.tsx"
+          "target": "@components/shadcn-space/input/input-04.tsx"
         }
       ]
     },
@@ -3197,7 +3219,7 @@
         {
           "path": "src/components/shadcn-space/input/input-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-05.tsx"
+          "target": "@components/shadcn-space/input/input-05.tsx"
         }
       ]
     },
@@ -3215,7 +3237,7 @@
         {
           "path": "src/components/shadcn-space/input/input-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-06.tsx"
+          "target": "@components/shadcn-space/input/input-06.tsx"
         }
       ]
     },
@@ -3236,7 +3258,7 @@
         {
           "path": "src/components/shadcn-space/input/input-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-07.tsx"
+          "target": "@components/shadcn-space/input/input-07.tsx"
         }
       ]
     },
@@ -3254,7 +3276,7 @@
         {
           "path": "src/components/shadcn-space/input/input-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-08.tsx"
+          "target": "@components/shadcn-space/input/input-08.tsx"
         }
       ]
     },
@@ -3272,7 +3294,7 @@
         {
           "path": "src/components/shadcn-space/input/input-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-09.tsx"
+          "target": "@components/shadcn-space/input/input-09.tsx"
         }
       ]
     },
@@ -3293,7 +3315,7 @@
         {
           "path": "src/components/shadcn-space/input/input-10.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-10.tsx"
+          "target": "@components/shadcn-space/input/input-10.tsx"
         }
       ]
     },
@@ -3314,7 +3336,7 @@
         {
           "path": "src/components/shadcn-space/input/input-11.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-11.tsx"
+          "target": "@components/shadcn-space/input/input-11.tsx"
         }
       ]
     },
@@ -3333,7 +3355,7 @@
         {
           "path": "src/components/shadcn-space/input/input-12.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-12.tsx"
+          "target": "@components/shadcn-space/input/input-12.tsx"
         }
       ]
     },
@@ -3351,7 +3373,7 @@
         {
           "path": "src/components/shadcn-space/input/input-13.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-13.tsx"
+          "target": "@components/shadcn-space/input/input-13.tsx"
         }
       ]
     },
@@ -3369,7 +3391,7 @@
         {
           "path": "src/components/shadcn-space/input/input-14.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-14.tsx"
+          "target": "@components/shadcn-space/input/input-14.tsx"
         }
       ]
     },
@@ -3387,7 +3409,7 @@
         {
           "path": "src/components/shadcn-space/input/input-15.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-15.tsx"
+          "target": "@components/shadcn-space/input/input-15.tsx"
         }
       ]
     },
@@ -3404,7 +3426,7 @@
         {
           "path": "src/components/shadcn-space/input/input-16.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-16.tsx"
+          "target": "@components/shadcn-space/input/input-16.tsx"
         }
       ]
     },
@@ -3424,7 +3446,7 @@
         {
           "path": "src/components/shadcn-space/input/input-17.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-17.tsx"
+          "target": "@components/shadcn-space/input/input-17.tsx"
         }
       ]
     },
@@ -3441,7 +3463,7 @@
         {
           "path": "src/components/shadcn-space/input/input-18.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-18.tsx"
+          "target": "@components/shadcn-space/input/input-18.tsx"
         }
       ]
     },
@@ -3463,7 +3485,7 @@
         {
           "path": "src/components/shadcn-space/input/input-19.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input/input-19.tsx"
+          "target": "@components/shadcn-space/input/input-19.tsx"
         }
       ]
     },
@@ -3480,7 +3502,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-01.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-01.tsx"
         }
       ]
     },
@@ -3500,7 +3522,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-02.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-02.tsx"
         }
       ]
     },
@@ -3518,7 +3540,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-03.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-03.tsx"
         }
       ]
     },
@@ -3537,7 +3559,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-04.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-04.tsx"
         }
       ]
     },
@@ -3555,7 +3577,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-05.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-05.tsx"
         }
       ]
     },
@@ -3573,7 +3595,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-06.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-06.tsx"
         }
       ]
     },
@@ -3591,7 +3613,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-07.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-07.tsx"
         }
       ]
     },
@@ -3609,7 +3631,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-08.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-08.tsx"
         }
       ]
     },
@@ -3627,7 +3649,7 @@
         {
           "path": "src/components/shadcn-space/textarea/textarea-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/textarea/textarea-09.tsx"
+          "target": "@components/shadcn-space/textarea/textarea-09.tsx"
         }
       ]
     },
@@ -3645,7 +3667,7 @@
         {
           "path": "src/components/shadcn-space/select/select-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-01.tsx"
+          "target": "@components/shadcn-space/select/select-01.tsx"
         }
       ]
     },
@@ -3665,7 +3687,7 @@
         {
           "path": "src/components/shadcn-space/select/select-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-02.tsx"
+          "target": "@components/shadcn-space/select/select-02.tsx"
         }
       ]
     },
@@ -3685,7 +3707,7 @@
         {
           "path": "src/components/shadcn-space/select/select-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-03.tsx"
+          "target": "@components/shadcn-space/select/select-03.tsx"
         }
       ]
     },
@@ -3703,7 +3725,7 @@
         {
           "path": "src/components/shadcn-space/select/select-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-04.tsx"
+          "target": "@components/shadcn-space/select/select-04.tsx"
         }
       ]
     },
@@ -3720,7 +3742,7 @@
         {
           "path": "src/components/shadcn-space/select/select-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-05.tsx"
+          "target": "@components/shadcn-space/select/select-05.tsx"
         }
       ]
     },
@@ -3738,12 +3760,12 @@
         {
           "path": "src/components/shadcn-space/select/select-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-06.tsx"
+          "target": "@components/shadcn-space/select/select-06.tsx"
         },
         {
           "path": "src/components/ui/multi-select.tsx",
           "type": "registry:component",
-          "target": "components/ui/multi-select.tsx"
+          "target": "@components/ui/multi-select.tsx"
         }
       ]
     },
@@ -3762,7 +3784,7 @@
         {
           "path": "src/components/shadcn-space/select/select-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-07.tsx"
+          "target": "@components/shadcn-space/select/select-07.tsx"
         }
       ]
     },
@@ -3780,7 +3802,7 @@
         {
           "path": "src/components/shadcn-space/select/select-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-08.tsx"
+          "target": "@components/shadcn-space/select/select-08.tsx"
         }
       ]
     },
@@ -3798,7 +3820,7 @@
         {
           "path": "src/components/shadcn-space/select/select-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/select/select-09.tsx"
+          "target": "@components/shadcn-space/select/select-09.tsx"
         }
       ]
     },
@@ -3815,7 +3837,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-01.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-01.tsx"
         }
       ]
     },
@@ -3832,7 +3854,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-02.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-02.tsx"
         }
       ]
     },
@@ -3850,7 +3872,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-03.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-03.tsx"
         }
       ]
     },
@@ -3868,7 +3890,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-04.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-04.tsx"
         }
       ]
     },
@@ -3888,7 +3910,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-05.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-05.tsx"
         }
       ]
     },
@@ -3907,7 +3929,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-06.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-06.tsx"
         }
       ]
     },
@@ -3926,7 +3948,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-07.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-07.tsx"
         }
       ]
     },
@@ -3944,7 +3966,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-08.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-08.tsx"
         }
       ]
     },
@@ -3964,7 +3986,7 @@
         {
           "path": "src/components/shadcn-space/checkbox/checkbox-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/checkbox/checkbox-09.tsx"
+          "target": "@components/shadcn-space/checkbox/checkbox-09.tsx"
         }
       ]
     },
@@ -3981,12 +4003,12 @@
         {
           "path": "src/components/shadcn-space/radio-group/radio-group-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/radio-group/radio-group-01.tsx"
+          "target": "@components/shadcn-space/radio-group/radio-group-01.tsx"
         },
         {
           "path": "src/components/ui/motion-radio-group.tsx",
           "type": "registry:component",
-          "target": "components/ui/motion-radio-group.tsx"
+          "target": "@components/ui/motion-radio-group.tsx"
         }
       ]
     },
@@ -4004,7 +4026,7 @@
         {
           "path": "src/components/shadcn-space/radio-group/radio-group-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/radio-group/radio-group-02.tsx"
+          "target": "@components/shadcn-space/radio-group/radio-group-02.tsx"
         }
       ]
     },
@@ -4024,7 +4046,7 @@
         {
           "path": "src/components/shadcn-space/radio-group/radio-group-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/radio-group/radio-group-03.tsx"
+          "target": "@components/shadcn-space/radio-group/radio-group-03.tsx"
         }
       ]
     },
@@ -4044,7 +4066,7 @@
         {
           "path": "src/components/shadcn-space/radio-group/radio-group-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/radio-group/radio-group-04.tsx"
+          "target": "@components/shadcn-space/radio-group/radio-group-04.tsx"
         }
       ]
     },
@@ -4062,7 +4084,7 @@
         {
           "path": "src/components/shadcn-space/radio-group/radio-group-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/radio-group/radio-group-05.tsx"
+          "target": "@components/shadcn-space/radio-group/radio-group-05.tsx"
         }
       ]
     },
@@ -4081,7 +4103,7 @@
         {
           "path": "src/components/shadcn-space/radio-group/radio-group-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/radio-group/radio-group-06.tsx"
+          "target": "@components/shadcn-space/radio-group/radio-group-06.tsx"
         }
       ]
     },
@@ -4099,7 +4121,7 @@
         {
           "path": "src/components/shadcn-space/switch/switch-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/switch/switch-01.tsx"
+          "target": "@components/shadcn-space/switch/switch-01.tsx"
         }
       ]
     },
@@ -4119,7 +4141,7 @@
         {
           "path": "src/components/shadcn-space/switch/switch-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/switch/switch-02.tsx"
+          "target": "@components/shadcn-space/switch/switch-02.tsx"
         }
       ]
     },
@@ -4138,7 +4160,7 @@
         {
           "path": "src/components/shadcn-space/switch/switch-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/switch/switch-03.tsx"
+          "target": "@components/shadcn-space/switch/switch-03.tsx"
         }
       ]
     },
@@ -4156,7 +4178,7 @@
         {
           "path": "src/components/shadcn-space/switch/switch-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/switch/switch-04.tsx"
+          "target": "@components/shadcn-space/switch/switch-04.tsx"
         }
       ]
     },
@@ -4174,7 +4196,7 @@
         {
           "path": "src/components/shadcn-space/switch/switch-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/switch/switch-05.tsx"
+          "target": "@components/shadcn-space/switch/switch-05.tsx"
         }
       ]
     },
@@ -4191,7 +4213,7 @@
         {
           "path": "src/components/shadcn-space/switch/switch-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/switch/switch-06.tsx"
+          "target": "@components/shadcn-space/switch/switch-06.tsx"
         }
       ]
     },
@@ -4208,7 +4230,7 @@
         {
           "path": "src/components/shadcn-space/tabs/tabs-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tabs/tabs-01.tsx"
+          "target": "@components/shadcn-space/tabs/tabs-01.tsx"
         }
       ]
     },
@@ -4225,7 +4247,7 @@
         {
           "path": "src/components/shadcn-space/tabs/tabs-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tabs/tabs-02.tsx"
+          "target": "@components/shadcn-space/tabs/tabs-02.tsx"
         }
       ]
     },
@@ -4244,7 +4266,7 @@
         {
           "path": "src/components/shadcn-space/tabs/tabs-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tabs/tabs-03.tsx"
+          "target": "@components/shadcn-space/tabs/tabs-03.tsx"
         }
       ]
     },
@@ -4262,7 +4284,7 @@
         {
           "path": "src/components/shadcn-space/tabs/tabs-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tabs/tabs-04.tsx"
+          "target": "@components/shadcn-space/tabs/tabs-04.tsx"
         }
       ]
     },
@@ -4280,7 +4302,7 @@
         {
           "path": "src/components/shadcn-space/tabs/tabs-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tabs/tabs-05.tsx"
+          "target": "@components/shadcn-space/tabs/tabs-05.tsx"
         }
       ]
     },
@@ -4298,7 +4320,7 @@
         {
           "path": "src/components/shadcn-space/tabs/tabs-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tabs/tabs-06.tsx"
+          "target": "@components/shadcn-space/tabs/tabs-06.tsx"
         }
       ]
     },
@@ -4318,7 +4340,7 @@
         {
           "path": "src/components/shadcn-space/tabs/tabs-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/tabs/tabs-07.tsx"
+          "target": "@components/shadcn-space/tabs/tabs-07.tsx"
         }
       ]
     },
@@ -4337,7 +4359,7 @@
         {
           "path": "src/components/shadcn-space/card/card-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-01.tsx"
+          "target": "@components/shadcn-space/card/card-01.tsx"
         }
       ]
     },
@@ -4357,7 +4379,7 @@
         {
           "path": "src/components/shadcn-space/card/card-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-02.tsx"
+          "target": "@components/shadcn-space/card/card-02.tsx"
         }
       ]
     },
@@ -4376,7 +4398,7 @@
         {
           "path": "src/components/shadcn-space/card/card-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-03.tsx"
+          "target": "@components/shadcn-space/card/card-03.tsx"
         }
       ]
     },
@@ -4396,7 +4418,7 @@
         {
           "path": "src/components/shadcn-space/card/card-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-04.tsx"
+          "target": "@components/shadcn-space/card/card-04.tsx"
         }
       ]
     },
@@ -4415,7 +4437,7 @@
         {
           "path": "src/components/shadcn-space/card/card-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-05.tsx"
+          "target": "@components/shadcn-space/card/card-05.tsx"
         }
       ]
     },
@@ -4435,7 +4457,7 @@
         {
           "path": "src/components/shadcn-space/card/card-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-06.tsx"
+          "target": "@components/shadcn-space/card/card-06.tsx"
         }
       ]
     },
@@ -4453,7 +4475,7 @@
         {
           "path": "src/components/shadcn-space/card/card-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-07.tsx"
+          "target": "@components/shadcn-space/card/card-07.tsx"
         }
       ]
     },
@@ -4478,7 +4500,7 @@
         {
           "path": "src/components/shadcn-space/card/card-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-08.tsx"
+          "target": "@components/shadcn-space/card/card-08.tsx"
         }
       ]
     },
@@ -4498,7 +4520,7 @@
         {
           "path": "src/components/shadcn-space/card/card-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-09.tsx"
+          "target": "@components/shadcn-space/card/card-09.tsx"
         }
       ]
     },
@@ -4519,7 +4541,7 @@
         {
           "path": "src/components/shadcn-space/card/card-10.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-10.tsx"
+          "target": "@components/shadcn-space/card/card-10.tsx"
         }
       ]
     },
@@ -4541,7 +4563,7 @@
         {
           "path": "src/components/shadcn-space/card/card-11.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-11.tsx"
+          "target": "@components/shadcn-space/card/card-11.tsx"
         }
       ]
     },
@@ -4558,7 +4580,7 @@
         {
           "path": "src/components/shadcn-space/card/card-12.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-12.tsx"
+          "target": "@components/shadcn-space/card/card-12.tsx"
         }
       ]
     },
@@ -4579,7 +4601,7 @@
         {
           "path": "src/components/shadcn-space/card/card-13.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-13.tsx"
+          "target": "@components/shadcn-space/card/card-13.tsx"
         }
       ]
     },
@@ -4599,7 +4621,7 @@
         {
           "path": "src/components/shadcn-space/card/card-14.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-14.tsx"
+          "target": "@components/shadcn-space/card/card-14.tsx"
         }
       ]
     },
@@ -4619,7 +4641,7 @@
         {
           "path": "src/components/shadcn-space/card/card-15.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/card/card-15.tsx"
+          "target": "@components/shadcn-space/card/card-15.tsx"
         }
       ]
     },
@@ -4641,7 +4663,7 @@
         {
           "path": "src/components/shadcn-space/shine-border/shine-border-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/shine-border/shine-border-01.tsx"
+          "target": "@components/shadcn-space/shine-border/shine-border-01.tsx"
         }
       ]
     },
@@ -4663,7 +4685,7 @@
         {
           "path": "src/components/shadcn-space/shine-border/shine-border-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/shine-border/shine-border-02.tsx"
+          "target": "@components/shadcn-space/shine-border/shine-border-02.tsx"
         }
       ]
     },
@@ -4684,7 +4706,7 @@
         {
           "path": "src/components/shadcn-space/shine-border/shine-border-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/shine-border/shine-border-03.tsx"
+          "target": "@components/shadcn-space/shine-border/shine-border-03.tsx"
         }
       ]
     },
@@ -4705,7 +4727,7 @@
         {
           "path": "src/components/shadcn-space/shine-border/shine-border-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/shine-border/shine-border-04.tsx"
+          "target": "@components/shadcn-space/shine-border/shine-border-04.tsx"
         }
       ]
     },
@@ -4720,7 +4742,7 @@
         {
           "path": "src/components/shadcn-space/number-ticker/number-ticker-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/number-ticker/number-ticker-01.tsx"
+          "target": "@components/shadcn-space/number-ticker/number-ticker-01.tsx"
         }
       ]
     },
@@ -4738,7 +4760,7 @@
         {
           "path": "src/components/shadcn-space/number-ticker/number-ticker-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/number-ticker/number-ticker-02.tsx"
+          "target": "@components/shadcn-space/number-ticker/number-ticker-02.tsx"
         }
       ]
     },
@@ -4756,7 +4778,7 @@
         {
           "path": "src/components/shadcn-space/number-ticker/number-ticker-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/number-ticker/number-ticker-03.tsx"
+          "target": "@components/shadcn-space/number-ticker/number-ticker-03.tsx"
         }
       ]
     },
@@ -4774,7 +4796,7 @@
         {
           "path": "src/components/shadcn-space/number-ticker/number-ticker-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/number-ticker/number-ticker-04.tsx"
+          "target": "@components/shadcn-space/number-ticker/number-ticker-04.tsx"
         }
       ]
     },
@@ -4792,7 +4814,7 @@
         {
           "path": "src/components/shadcn-space/number-ticker/number-ticker-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/number-ticker/number-ticker-05.tsx"
+          "target": "@components/shadcn-space/number-ticker/number-ticker-05.tsx"
         }
       ]
     },
@@ -4807,7 +4829,7 @@
         {
           "path": "src/components/shadcn-space/spinning-text/spinning-text-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinning-text/spinning-text-01.tsx"
+          "target": "@components/shadcn-space/spinning-text/spinning-text-01.tsx"
         }
       ]
     },
@@ -4825,7 +4847,7 @@
         {
           "path": "src/components/shadcn-space/spinning-text/spinning-text-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinning-text/spinning-text-02.tsx"
+          "target": "@components/shadcn-space/spinning-text/spinning-text-02.tsx"
         }
       ]
     },
@@ -4849,7 +4871,7 @@
         {
           "path": "src/components/shadcn-space/date-picker/date-picker-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/date-picker/date-picker-01.tsx"
+          "target": "@components/shadcn-space/date-picker/date-picker-01.tsx"
         }
       ]
     },
@@ -4873,7 +4895,7 @@
         {
           "path": "src/components/shadcn-space/date-picker/date-picker-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/date-picker/date-picker-02.tsx"
+          "target": "@components/shadcn-space/date-picker/date-picker-02.tsx"
         }
       ]
     },
@@ -4892,7 +4914,7 @@
         {
           "path": "src/components/shadcn-space/file-upload/file-upload-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/file-upload/file-upload-01.tsx"
+          "target": "@components/shadcn-space/file-upload/file-upload-01.tsx"
         }
       ]
     },
@@ -4913,7 +4935,7 @@
         {
           "path": "src/components/shadcn-space/combobox/combobox-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/combobox/combobox-01.tsx"
+          "target": "@components/shadcn-space/combobox/combobox-01.tsx"
         }
       ]
     },
@@ -4934,7 +4956,7 @@
         {
           "path": "src/components/shadcn-space/combobox/combobox-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/combobox/combobox-02.tsx"
+          "target": "@components/shadcn-space/combobox/combobox-02.tsx"
         }
       ]
     },
@@ -4955,7 +4977,7 @@
         {
           "path": "src/components/shadcn-space/combobox/combobox-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/combobox/combobox-03.tsx"
+          "target": "@components/shadcn-space/combobox/combobox-03.tsx"
         }
       ]
     },
@@ -4976,7 +4998,7 @@
         {
           "path": "src/components/shadcn-space/combobox/combobox-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/combobox/combobox-04.tsx"
+          "target": "@components/shadcn-space/combobox/combobox-04.tsx"
         }
       ]
     },
@@ -4998,7 +5020,7 @@
         {
           "path": "src/components/shadcn-space/combobox/combobox-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/combobox/combobox-05.tsx"
+          "target": "@components/shadcn-space/combobox/combobox-05.tsx"
         }
       ]
     },
@@ -5019,7 +5041,7 @@
         {
           "path": "src/components/shadcn-space/combobox/combobox-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/combobox/combobox-06.tsx"
+          "target": "@components/shadcn-space/combobox/combobox-06.tsx"
         }
       ]
     },
@@ -5036,7 +5058,7 @@
         {
           "path": "src/components/shadcn-space/carousel/carousel-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/carousel/carousel-01.tsx"
+          "target": "@components/shadcn-space/carousel/carousel-01.tsx"
         }
       ]
     },
@@ -5056,7 +5078,7 @@
         {
           "path": "src/components/shadcn-space/carousel/carousel-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/carousel/carousel-02.tsx"
+          "target": "@components/shadcn-space/carousel/carousel-02.tsx"
         }
       ]
     },
@@ -5073,7 +5095,7 @@
         {
           "path": "src/components/shadcn-space/carousel/carousel-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/carousel/carousel-03.tsx"
+          "target": "@components/shadcn-space/carousel/carousel-03.tsx"
         }
       ]
     },
@@ -5091,7 +5113,7 @@
         {
           "path": "src/components/shadcn-space/carousel/carousel-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/carousel/carousel-04.tsx"
+          "target": "@components/shadcn-space/carousel/carousel-04.tsx"
         }
       ]
     },
@@ -5110,7 +5132,7 @@
         {
           "path": "src/components/shadcn-space/alert/alert-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/alert/alert-01.tsx"
+          "target": "@components/shadcn-space/alert/alert-01.tsx"
         }
       ]
     },
@@ -5130,7 +5152,7 @@
         {
           "path": "src/components/shadcn-space/alert/alert-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/alert/alert-02.tsx"
+          "target": "@components/shadcn-space/alert/alert-02.tsx"
         }
       ]
     },
@@ -5150,12 +5172,12 @@
         {
           "path": "src/components/shadcn-space/alert/alert-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/alert/alert-03.tsx"
+          "target": "@components/shadcn-space/alert/alert-03.tsx"
         },
         {
           "path": "src/components/ui/confetti.tsx",
           "type": "registry:component",
-          "target": "components/ui/confetti.tsx"
+          "target": "@components/ui/confetti.tsx"
         }
       ]
     },
@@ -5174,7 +5196,7 @@
         {
           "path": "src/components/shadcn-space/alert/alert-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/alert/alert-04.tsx"
+          "target": "@components/shadcn-space/alert/alert-04.tsx"
         }
       ]
     },
@@ -5194,7 +5216,7 @@
         {
           "path": "src/components/shadcn-space/alert/alert-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/alert/alert-05.tsx"
+          "target": "@components/shadcn-space/alert/alert-05.tsx"
         }
       ]
     },
@@ -5214,7 +5236,7 @@
         {
           "path": "src/components/shadcn-space/alert/alert-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/alert/alert-06.tsx"
+          "target": "@components/shadcn-space/alert/alert-06.tsx"
         }
       ]
     },
@@ -5233,7 +5255,7 @@
         {
           "path": "src/components/shadcn-space/breadcrumb/breadcrumb-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/breadcrumb/breadcrumb-01.tsx"
+          "target": "@components/shadcn-space/breadcrumb/breadcrumb-01.tsx"
         }
       ]
     },
@@ -5252,7 +5274,7 @@
         {
           "path": "src/components/shadcn-space/breadcrumb/breadcrumb-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/breadcrumb/breadcrumb-02.tsx"
+          "target": "@components/shadcn-space/breadcrumb/breadcrumb-02.tsx"
         }
       ]
     },
@@ -5271,7 +5293,7 @@
         {
           "path": "src/components/shadcn-space/breadcrumb/breadcrumb-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/breadcrumb/breadcrumb-03.tsx"
+          "target": "@components/shadcn-space/breadcrumb/breadcrumb-03.tsx"
         }
       ]
     },
@@ -5291,7 +5313,7 @@
         {
           "path": "src/components/shadcn-space/breadcrumb/breadcrumb-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/breadcrumb/breadcrumb-04.tsx"
+          "target": "@components/shadcn-space/breadcrumb/breadcrumb-04.tsx"
         }
       ]
     },
@@ -5312,7 +5334,7 @@
         {
           "path": "src/components/shadcn-space/breadcrumb/breadcrumb-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/breadcrumb/breadcrumb-05.tsx"
+          "target": "@components/shadcn-space/breadcrumb/breadcrumb-05.tsx"
         }
       ]
     },
@@ -5330,7 +5352,7 @@
         {
           "path": "src/components/shadcn-space/breadcrumb/breadcrumb-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/breadcrumb/breadcrumb-06.tsx"
+          "target": "@components/shadcn-space/breadcrumb/breadcrumb-06.tsx"
         }
       ]
     },
@@ -5350,7 +5372,7 @@
         {
           "path": "src/components/shadcn-space/dialog/dialog-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/dialog/dialog-01.tsx"
+          "target": "@components/shadcn-space/dialog/dialog-01.tsx"
         }
       ]
     },
@@ -5370,7 +5392,7 @@
         {
           "path": "src/components/shadcn-space/dialog/dialog-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/dialog/dialog-02.tsx"
+          "target": "@components/shadcn-space/dialog/dialog-02.tsx"
         }
       ]
     },
@@ -5391,7 +5413,7 @@
         {
           "path": "src/components/shadcn-space/dialog/dialog-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/dialog/dialog-03.tsx"
+          "target": "@components/shadcn-space/dialog/dialog-03.tsx"
         }
       ]
     },
@@ -5412,7 +5434,7 @@
         {
           "path": "src/components/shadcn-space/dialog/dialog-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/dialog/dialog-04.tsx"
+          "target": "@components/shadcn-space/dialog/dialog-04.tsx"
         }
       ]
     },
@@ -5432,7 +5454,7 @@
         {
           "path": "src/components/shadcn-space/dialog/dialog-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/dialog/dialog-05.tsx"
+          "target": "@components/shadcn-space/dialog/dialog-05.tsx"
         }
       ]
     },
@@ -5452,7 +5474,7 @@
         {
           "path": "src/components/shadcn-space/dialog/dialog-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/dialog/dialog-06.tsx"
+          "target": "@components/shadcn-space/dialog/dialog-06.tsx"
         }
       ]
     },
@@ -5472,7 +5494,7 @@
         {
           "path": "src/components/shadcn-space/popover/popover-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/popover/popover-01.tsx"
+          "target": "@components/shadcn-space/popover/popover-01.tsx"
         }
       ]
     },
@@ -5492,7 +5514,7 @@
         {
           "path": "src/components/shadcn-space/popover/popover-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/popover/popover-02.tsx"
+          "target": "@components/shadcn-space/popover/popover-02.tsx"
         }
       ]
     },
@@ -5516,7 +5538,7 @@
         {
           "path": "src/components/shadcn-space/popover/popover-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/popover/popover-03.tsx"
+          "target": "@components/shadcn-space/popover/popover-03.tsx"
         }
       ]
     },
@@ -5539,7 +5561,7 @@
         {
           "path": "src/components/shadcn-space/popover/popover-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/popover/popover-04.tsx"
+          "target": "@components/shadcn-space/popover/popover-04.tsx"
         }
       ]
     },
@@ -5559,7 +5581,7 @@
         {
           "path": "src/components/shadcn-space/popover/popover-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/popover/popover-05.tsx"
+          "target": "@components/shadcn-space/popover/popover-05.tsx"
         }
       ]
     },
@@ -5580,7 +5602,7 @@
         {
           "path": "src/components/shadcn-space/popover/popover-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/popover/popover-06.tsx"
+          "target": "@components/shadcn-space/popover/popover-06.tsx"
         }
       ]
     },
@@ -5599,7 +5621,7 @@
         {
           "path": "src/components/shadcn-space/slider/slider-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/slider/slider-01.tsx"
+          "target": "@components/shadcn-space/slider/slider-01.tsx"
         }
       ]
     },
@@ -5616,7 +5638,7 @@
         {
           "path": "src/components/shadcn-space/slider/slider-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/slider/slider-02.tsx"
+          "target": "@components/shadcn-space/slider/slider-02.tsx"
         }
       ]
     },
@@ -5635,7 +5657,7 @@
         {
           "path": "src/components/shadcn-space/slider/slider-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/slider/slider-03.tsx"
+          "target": "@components/shadcn-space/slider/slider-03.tsx"
         }
       ]
     },
@@ -5654,7 +5676,7 @@
         {
           "path": "src/components/shadcn-space/slider/slider-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/slider/slider-04.tsx"
+          "target": "@components/shadcn-space/slider/slider-04.tsx"
         }
       ]
     },
@@ -5673,7 +5695,7 @@
         {
           "path": "src/components/shadcn-space/skeleton/skeleton-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/skeleton/skeleton-01.tsx"
+          "target": "@components/shadcn-space/skeleton/skeleton-01.tsx"
         }
       ]
     },
@@ -5692,7 +5714,7 @@
         {
           "path": "src/components/shadcn-space/skeleton/skeleton-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/skeleton/skeleton-02.tsx"
+          "target": "@components/shadcn-space/skeleton/skeleton-02.tsx"
         }
       ]
     },
@@ -5711,7 +5733,7 @@
         {
           "path": "src/components/shadcn-space/skeleton/skeleton-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/skeleton/skeleton-03.tsx"
+          "target": "@components/shadcn-space/skeleton/skeleton-03.tsx"
         }
       ]
     },
@@ -5728,7 +5750,7 @@
         {
           "path": "src/components/shadcn-space/spinner/spinner-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinner/spinner-01.tsx"
+          "target": "@components/shadcn-space/spinner/spinner-01.tsx"
         }
       ]
     },
@@ -5743,7 +5765,7 @@
         {
           "path": "src/components/shadcn-space/spinner/spinner-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinner/spinner-02.tsx"
+          "target": "@components/shadcn-space/spinner/spinner-02.tsx"
         }
       ]
     },
@@ -5758,7 +5780,7 @@
         {
           "path": "src/components/shadcn-space/spinner/spinner-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinner/spinner-03.tsx"
+          "target": "@components/shadcn-space/spinner/spinner-03.tsx"
         }
       ]
     },
@@ -5773,7 +5795,7 @@
         {
           "path": "src/components/shadcn-space/spinner/spinner-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinner/spinner-04.tsx"
+          "target": "@components/shadcn-space/spinner/spinner-04.tsx"
         }
       ]
     },
@@ -5788,7 +5810,7 @@
         {
           "path": "src/components/shadcn-space/spinner/spinner-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinner/spinner-05.tsx"
+          "target": "@components/shadcn-space/spinner/spinner-05.tsx"
         }
       ]
     },
@@ -5803,7 +5825,7 @@
         {
           "path": "src/components/shadcn-space/spinner/spinner-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinner/spinner-06.tsx"
+          "target": "@components/shadcn-space/spinner/spinner-06.tsx"
         }
       ]
     },
@@ -5820,7 +5842,7 @@
         {
           "path": "src/components/shadcn-space/spinner/spinner-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/spinner/spinner-07.tsx"
+          "target": "@components/shadcn-space/spinner/spinner-07.tsx"
         }
       ]
     },
@@ -5838,7 +5860,7 @@
         {
           "path": "src/components/shadcn-space/sonner/sonner-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/sonner/sonner-01.tsx"
+          "target": "@components/shadcn-space/sonner/sonner-01.tsx"
         }
       ]
     },
@@ -5856,7 +5878,7 @@
         {
           "path": "src/components/shadcn-space/sonner/sonner-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/sonner/sonner-02.tsx"
+          "target": "@components/shadcn-space/sonner/sonner-02.tsx"
         }
       ]
     },
@@ -5874,7 +5896,7 @@
         {
           "path": "src/components/shadcn-space/sonner/sonner-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/sonner/sonner-03.tsx"
+          "target": "@components/shadcn-space/sonner/sonner-03.tsx"
         }
       ]
     },
@@ -5896,7 +5918,7 @@
         {
           "path": "src/components/shadcn-space/sonner/sonner-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/sonner/sonner-04.tsx"
+          "target": "@components/shadcn-space/sonner/sonner-04.tsx"
         }
       ]
     },
@@ -5917,7 +5939,7 @@
         {
           "path": "src/components/shadcn-space/sonner/sonner-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/sonner/sonner-05.tsx"
+          "target": "@components/shadcn-space/sonner/sonner-05.tsx"
         }
       ]
     },
@@ -5939,7 +5961,7 @@
         {
           "path": "src/components/shadcn-space/sonner/sonner-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/sonner/sonner-06.tsx"
+          "target": "@components/shadcn-space/sonner/sonner-06.tsx"
         }
       ]
     },
@@ -5961,7 +5983,7 @@
         {
           "path": "src/components/shadcn-space/sonner/sonner-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/sonner/sonner-07.tsx"
+          "target": "@components/shadcn-space/sonner/sonner-07.tsx"
         }
       ]
     },
@@ -5980,7 +6002,7 @@
         {
           "path": "src/components/shadcn-space/pagination/pagination-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/pagination/pagination-01.tsx"
+          "target": "@components/shadcn-space/pagination/pagination-01.tsx"
         }
       ]
     },
@@ -5999,7 +6021,7 @@
         {
           "path": "src/components/shadcn-space/pagination/pagination-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/pagination/pagination-02.tsx"
+          "target": "@components/shadcn-space/pagination/pagination-02.tsx"
         }
       ]
     },
@@ -6021,7 +6043,7 @@
         {
           "path": "src/components/shadcn-space/pagination/pagination-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/pagination/pagination-03.tsx"
+          "target": "@components/shadcn-space/pagination/pagination-03.tsx"
         }
       ]
     },
@@ -6042,7 +6064,7 @@
         {
           "path": "src/components/shadcn-space/scroll-area/scroll-area-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/scroll-area/scroll-area-01.tsx"
+          "target": "@components/shadcn-space/scroll-area/scroll-area-01.tsx"
         }
       ]
     },
@@ -6060,7 +6082,7 @@
         {
           "path": "src/components/shadcn-space/scroll-area/scroll-area-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/scroll-area/scroll-area-02.tsx"
+          "target": "@components/shadcn-space/scroll-area/scroll-area-02.tsx"
         }
       ]
     },
@@ -6077,7 +6099,7 @@
         {
           "path": "src/components/shadcn-space/scroll-area/scroll-area-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/scroll-area/scroll-area-03.tsx"
+          "target": "@components/shadcn-space/scroll-area/scroll-area-03.tsx"
         }
       ]
     },
@@ -6097,7 +6119,7 @@
         {
           "path": "src/components/shadcn-space/input-mask/input-mask-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-mask/input-mask-01.tsx"
+          "target": "@components/shadcn-space/input-mask/input-mask-01.tsx"
         }
       ]
     },
@@ -6117,7 +6139,7 @@
         {
           "path": "src/components/shadcn-space/input-mask/input-mask-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-mask/input-mask-02.tsx"
+          "target": "@components/shadcn-space/input-mask/input-mask-02.tsx"
         }
       ]
     },
@@ -6137,7 +6159,7 @@
         {
           "path": "src/components/shadcn-space/input-mask/input-mask-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-mask/input-mask-03.tsx"
+          "target": "@components/shadcn-space/input-mask/input-mask-03.tsx"
         }
       ]
     },
@@ -6157,7 +6179,7 @@
         {
           "path": "src/components/shadcn-space/collapsible/collapsible-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/collapsible/collapsible-01.tsx"
+          "target": "@components/shadcn-space/collapsible/collapsible-01.tsx"
         }
       ]
     },
@@ -6177,7 +6199,7 @@
         {
           "path": "src/components/shadcn-space/collapsible/collapsible-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/collapsible/collapsible-02.tsx"
+          "target": "@components/shadcn-space/collapsible/collapsible-02.tsx"
         }
       ]
     },
@@ -6200,7 +6222,7 @@
         {
           "path": "src/components/shadcn-space/collapsible/collapsible-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/collapsible/collapsible-03.tsx"
+          "target": "@components/shadcn-space/collapsible/collapsible-03.tsx"
         }
       ]
     },
@@ -6220,7 +6242,7 @@
         {
           "path": "src/components/shadcn-space/progress/progress-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/progress/progress-01.tsx"
+          "target": "@components/shadcn-space/progress/progress-01.tsx"
         }
       ]
     },
@@ -6238,7 +6260,7 @@
         {
           "path": "src/components/shadcn-space/progress/progress-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/progress/progress-02.tsx"
+          "target": "@components/shadcn-space/progress/progress-02.tsx"
         }
       ]
     },
@@ -6258,7 +6280,7 @@
         {
           "path": "src/components/shadcn-space/progress/progress-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/progress/progress-03.tsx"
+          "target": "@components/shadcn-space/progress/progress-03.tsx"
         }
       ]
     },
@@ -6278,7 +6300,7 @@
         {
           "path": "src/components/shadcn-space/progress/progress-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/progress/progress-04.tsx"
+          "target": "@components/shadcn-space/progress/progress-04.tsx"
         }
       ]
     },
@@ -6298,7 +6320,7 @@
         {
           "path": "src/components/shadcn-space/dropdown-menu/dropdown-menu-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/dropdown-menu/dropdown-menu-01.tsx"
+          "target": "@components/shadcn-space/dropdown-menu/dropdown-menu-01.tsx"
         }
       ]
     },
@@ -6319,7 +6341,7 @@
         {
           "path": "src/components/shadcn-space/dropdown-menu/dropdown-menu-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/dropdown-menu/dropdown-menu-02.tsx"
+          "target": "@components/shadcn-space/dropdown-menu/dropdown-menu-02.tsx"
         }
       ]
     },
@@ -6336,7 +6358,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-01.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-01.tsx"
         }
       ]
     },
@@ -6354,7 +6376,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-02.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-02.tsx"
         }
       ]
     },
@@ -6371,7 +6393,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-03.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-03.tsx"
         }
       ]
     },
@@ -6388,7 +6410,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-04.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-04.tsx"
         }
       ]
     },
@@ -6405,7 +6427,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-05.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-05.tsx"
         }
       ]
     },
@@ -6423,7 +6445,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-06.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-06.tsx"
         }
       ]
     },
@@ -6440,7 +6462,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-07.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-07.tsx"
         }
       ]
     },
@@ -6457,7 +6479,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-08.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-08.tsx"
         }
       ]
     },
@@ -6476,7 +6498,7 @@
         {
           "path": "src/components/shadcn-space/input-otp/input-otp-09.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/input-otp/input-otp-09.tsx"
+          "target": "@components/shadcn-space/input-otp/input-otp-09.tsx"
         }
       ]
     },
@@ -6496,12 +6518,12 @@
         {
           "path": "src/components/ui/autocomplete.tsx",
           "type": "registry:component",
-          "target": "components/ui/autocomplete.tsx"
+          "target": "@components/ui/autocomplete.tsx"
         },
         {
           "path": "src/components/shadcn-space/autocomplete/autocomplete-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/autocomplete/autocomplete-01.tsx"
+          "target": "@components/shadcn-space/autocomplete/autocomplete-01.tsx"
         }
       ]
     },
@@ -6521,12 +6543,12 @@
         {
           "path": "src/components/ui/autocomplete.tsx",
           "type": "registry:component",
-          "target": "components/ui/autocomplete.tsx"
+          "target": "@components/ui/autocomplete.tsx"
         },
         {
           "path": "src/components/shadcn-space/autocomplete/autocomplete-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/autocomplete/autocomplete-02.tsx"
+          "target": "@components/shadcn-space/autocomplete/autocomplete-02.tsx"
         }
       ]
     },
@@ -6548,12 +6570,12 @@
         {
           "path": "src/components/ui/autocomplete.tsx",
           "type": "registry:component",
-          "target": "components/ui/autocomplete.tsx"
+          "target": "@components/ui/autocomplete.tsx"
         },
         {
           "path": "src/components/shadcn-space/autocomplete/autocomplete-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/autocomplete/autocomplete-03.tsx"
+          "target": "@components/shadcn-space/autocomplete/autocomplete-03.tsx"
         }
       ]
     },
@@ -6575,12 +6597,12 @@
         {
           "path": "src/components/ui/autocomplete.tsx",
           "type": "registry:component",
-          "target": "components/ui/autocomplete.tsx"
+          "target": "@components/ui/autocomplete.tsx"
         },
         {
           "path": "src/components/shadcn-space/autocomplete/autocomplete-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/autocomplete/autocomplete-04.tsx"
+          "target": "@components/shadcn-space/autocomplete/autocomplete-04.tsx"
         }
       ]
     },
@@ -6602,12 +6624,12 @@
         {
           "path": "src/components/ui/autocomplete.tsx",
           "type": "registry:component",
-          "target": "components/ui/autocomplete.tsx"
+          "target": "@components/ui/autocomplete.tsx"
         },
         {
           "path": "src/components/shadcn-space/autocomplete/autocomplete-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/autocomplete/autocomplete-05.tsx"
+          "target": "@components/shadcn-space/autocomplete/autocomplete-05.tsx"
         }
       ]
     },
@@ -6628,12 +6650,12 @@
         {
           "path": "src/components/ui/autocomplete.tsx",
           "type": "registry:component",
-          "target": "components/ui/autocomplete.tsx"
+          "target": "@components/ui/autocomplete.tsx"
         },
         {
           "path": "src/components/shadcn-space/autocomplete/autocomplete-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/autocomplete/autocomplete-06.tsx"
+          "target": "@components/shadcn-space/autocomplete/autocomplete-06.tsx"
         }
       ]
     },
@@ -6653,7 +6675,7 @@
         {
           "path": "src/components/shadcn-space/context-menu/context-menu-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/context-menu/context-menu-01.tsx"
+          "target": "@components/shadcn-space/context-menu/context-menu-01.tsx"
         }
       ]
     },
@@ -6671,7 +6693,7 @@
         {
           "path": "src/components/shadcn-space/context-menu/context-menu-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/context-menu/context-menu-02.tsx"
+          "target": "@components/shadcn-space/context-menu/context-menu-02.tsx"
         }
       ]
     },
@@ -6691,7 +6713,7 @@
         {
           "path": "src/components/shadcn-space/command/command-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/command/command-01.tsx"
+          "target": "@components/shadcn-space/command/command-01.tsx"
         }
       ]
     },
@@ -6711,7 +6733,7 @@
         {
           "path": "src/components/shadcn-space/command/command-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/command/command-02.tsx"
+          "target": "@components/shadcn-space/command/command-02.tsx"
         }
       ]
     },
@@ -6731,7 +6753,7 @@
         {
           "path": "src/components/shadcn-space/command/command-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/command/command-03.tsx"
+          "target": "@components/shadcn-space/command/command-03.tsx"
         }
       ]
     },
@@ -6752,7 +6774,7 @@
         {
           "path": "src/components/shadcn-space/command/command-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/command/command-04.tsx"
+          "target": "@components/shadcn-space/command/command-04.tsx"
         }
       ]
     },
@@ -6772,7 +6794,7 @@
         {
           "path": "src/components/shadcn-space/command/command-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/command/command-05.tsx"
+          "target": "@components/shadcn-space/command/command-05.tsx"
         }
       ]
     },
@@ -6793,7 +6815,7 @@
         {
           "path": "src/components/shadcn-space/command/command-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/command/command-06.tsx"
+          "target": "@components/shadcn-space/command/command-06.tsx"
         }
       ]
     },
@@ -6816,7 +6838,7 @@
         {
           "path": "src/components/shadcn-space/command/command-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/command/command-07.tsx"
+          "target": "@components/shadcn-space/command/command-07.tsx"
         }
       ]
     },
@@ -6836,12 +6858,12 @@
         {
           "path": "src/components/shadcn-space/code-block/code-block-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/code-block/code-block-01.tsx"
+          "target": "@components/shadcn-space/code-block/code-block-01.tsx"
         },
         {
           "path": "src/components/ui/code-block.tsx",
           "type": "registry:ui",
-          "target": "components/ui/code-block.tsx"
+          "target": "@components/ui/code-block.tsx"
         }
       ]
     },
@@ -6861,12 +6883,12 @@
         {
           "path": "src/components/shadcn-space/code-block/code-block-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/code-block/code-block-02.tsx"
+          "target": "@components/shadcn-space/code-block/code-block-02.tsx"
         },
         {
           "path": "src/components/ui/code-block.tsx",
           "type": "registry:ui",
-          "target": "components/ui/code-block.tsx"
+          "target": "@components/ui/code-block.tsx"
         }
       ]
     },
@@ -6886,12 +6908,12 @@
         {
           "path": "src/components/shadcn-space/code-block/code-block-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/code-block/code-block-03.tsx"
+          "target": "@components/shadcn-space/code-block/code-block-03.tsx"
         },
         {
           "path": "src/components/ui/code-block.tsx",
           "type": "registry:ui",
-          "target": "components/ui/code-block.tsx"
+          "target": "@components/ui/code-block.tsx"
         }
       ]
     },
@@ -6911,12 +6933,12 @@
         {
           "path": "src/components/shadcn-space/code-block/code-block-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/code-block/code-block-04.tsx"
+          "target": "@components/shadcn-space/code-block/code-block-04.tsx"
         },
         {
           "path": "src/components/ui/code-block.tsx",
           "type": "registry:ui",
-          "target": "components/ui/code-block.tsx"
+          "target": "@components/ui/code-block.tsx"
         }
       ]
     },
@@ -6936,12 +6958,12 @@
         {
           "path": "src/components/shadcn-space/code-block/code-block-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/code-block/code-block-05.tsx"
+          "target": "@components/shadcn-space/code-block/code-block-05.tsx"
         },
         {
           "path": "src/components/ui/code-block.tsx",
           "type": "registry:ui",
-          "target": "components/ui/code-block.tsx"
+          "target": "@components/ui/code-block.tsx"
         }
       ]
     },
@@ -6961,12 +6983,12 @@
         {
           "path": "src/components/shadcn-space/code-block/code-block-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/code-block/code-block-06.tsx"
+          "target": "@components/shadcn-space/code-block/code-block-06.tsx"
         },
         {
           "path": "src/components/ui/code-block.tsx",
           "type": "registry:ui",
-          "target": "components/ui/code-block.tsx"
+          "target": "@components/ui/code-block.tsx"
         }
       ]
     },
@@ -6986,12 +7008,12 @@
         {
           "path": "src/components/shadcn-space/code-block/code-block-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/code-block/code-block-07.tsx"
+          "target": "@components/shadcn-space/code-block/code-block-07.tsx"
         },
         {
           "path": "src/components/ui/code-block.tsx",
           "type": "registry:ui",
-          "target": "components/ui/code-block.tsx"
+          "target": "@components/ui/code-block.tsx"
         }
       ]
     },
@@ -7012,7 +7034,7 @@
         {
           "path": "src/components/shadcn-space/kbd/kbd-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/kbd/kbd-01.tsx"
+          "target": "@components/shadcn-space/kbd/kbd-01.tsx"
         }
       ]
     },
@@ -7030,7 +7052,7 @@
         {
           "path": "src/components/shadcn-space/kbd/kbd-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/kbd/kbd-02.tsx"
+          "target": "@components/shadcn-space/kbd/kbd-02.tsx"
         }
       ]
     },
@@ -7051,7 +7073,7 @@
         {
           "path": "src/components/shadcn-space/kbd/kbd-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/kbd/kbd-03.tsx"
+          "target": "@components/shadcn-space/kbd/kbd-03.tsx"
         }
       ]
     },
@@ -7072,7 +7094,7 @@
         {
           "path": "src/components/shadcn-space/kbd/kbd-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/kbd/kbd-04.tsx"
+          "target": "@components/shadcn-space/kbd/kbd-04.tsx"
         }
       ]
     },
@@ -7094,7 +7116,7 @@
         {
           "path": "src/components/shadcn-space/kbd/kbd-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/kbd/kbd-05.tsx"
+          "target": "@components/shadcn-space/kbd/kbd-05.tsx"
         }
       ]
     },
@@ -7112,7 +7134,7 @@
         {
           "path": "src/components/shadcn-space/label/label-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/label/label-01.tsx"
+          "target": "@components/shadcn-space/label/label-01.tsx"
         }
       ]
     },
@@ -7130,7 +7152,7 @@
         {
           "path": "src/components/shadcn-space/label/label-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/label/label-02.tsx"
+          "target": "@components/shadcn-space/label/label-02.tsx"
         }
       ]
     },
@@ -7149,7 +7171,7 @@
         {
           "path": "src/components/shadcn-space/label/label-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/label/label-03.tsx"
+          "target": "@components/shadcn-space/label/label-03.tsx"
         }
       ]
     },
@@ -7167,7 +7189,7 @@
         {
           "path": "src/components/shadcn-space/label/label-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/label/label-04.tsx"
+          "target": "@components/shadcn-space/label/label-04.tsx"
         }
       ]
     },
@@ -7185,7 +7207,7 @@
         {
           "path": "src/components/shadcn-space/label/label-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/label/label-05.tsx"
+          "target": "@components/shadcn-space/label/label-05.tsx"
         }
       ]
     },
@@ -7206,7 +7228,7 @@
         {
           "path": "src/components/shadcn-space/label/label-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/label/label-06.tsx"
+          "target": "@components/shadcn-space/label/label-06.tsx"
         }
       ]
     },
@@ -7223,7 +7245,7 @@
         {
           "path": "src/components/shadcn-space/separator/separator-01.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/separator/separator-01.tsx"
+          "target": "@components/shadcn-space/separator/separator-01.tsx"
         }
       ]
     },
@@ -7240,7 +7262,7 @@
         {
           "path": "src/components/shadcn-space/separator/separator-02.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/separator/separator-02.tsx"
+          "target": "@components/shadcn-space/separator/separator-02.tsx"
         }
       ]
     },
@@ -7257,7 +7279,7 @@
         {
           "path": "src/components/shadcn-space/separator/separator-03.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/separator/separator-03.tsx"
+          "target": "@components/shadcn-space/separator/separator-03.tsx"
         }
       ]
     },
@@ -7274,7 +7296,7 @@
         {
           "path": "src/components/shadcn-space/separator/separator-04.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/separator/separator-04.tsx"
+          "target": "@components/shadcn-space/separator/separator-04.tsx"
         }
       ]
     },
@@ -7291,7 +7313,7 @@
         {
           "path": "src/components/shadcn-space/separator/separator-05.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/separator/separator-05.tsx"
+          "target": "@components/shadcn-space/separator/separator-05.tsx"
         }
       ]
     },
@@ -7308,7 +7330,7 @@
         {
           "path": "src/components/shadcn-space/separator/separator-06.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/separator/separator-06.tsx"
+          "target": "@components/shadcn-space/separator/separator-06.tsx"
         }
       ]
     },
@@ -7326,7 +7348,7 @@
         {
           "path": "src/components/shadcn-space/separator/separator-07.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/separator/separator-07.tsx"
+          "target": "@components/shadcn-space/separator/separator-07.tsx"
         }
       ]
     },
@@ -7345,7 +7367,22 @@
         {
           "path": "src/components/shadcn-space/separator/separator-08.tsx",
           "type": "registry:component",
-          "target": "components/shadcn-space/separator/separator-08.tsx"
+          "target": "@components/shadcn-space/separator/separator-08.tsx"
+        }
+      ]
+    },
+    {
+      "name": "logo",
+      "title": "Logo",
+      "description": "Logo component",
+      "type": "registry:component",
+      "dependencies": [],
+      "registryDependencies": [],
+      "files": [
+        {
+          "path": "src/assets/logo/logo.tsx",
+          "type": "registry:component",
+          "target": "@components/assets/logo/logo.tsx"
         }
       ]
     }

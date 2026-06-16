@@ -11,7 +11,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/apple-dock/apple-dock.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/apple-dock/apple-dock.tsx",
+        target: "@components/shadcn-space/apple-dock/apple-dock.tsx",
       },
     ],
     category: categories["apple-dock"],
@@ -26,12 +26,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/orbiting-circles/orbiting-circles.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/orbiting-circles/orbiting-circles.tsx",
+        target: "@components/shadcn-space/orbiting-circles/orbiting-circles.tsx",
       },
       {
         path: "src/components/shadcn-space/orbiting-circles/orbiting-circles.css",
         type: "registry:style",
-        target: "components/shadcn-space/orbiting-circles/orbiting-circles.css",
+        target: "@components/shadcn-space/orbiting-circles/orbiting-circles.css",
       },
     ],
     category: categories["orbiting-circles"],
@@ -46,7 +46,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-list/animated-list-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-list/animated-list-01.tsx",
+        target: "@components/shadcn-space/animated-list/animated-list-01.tsx",
       },
     ],
     category: categories["animated-list"],
@@ -61,7 +61,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-list/animated-list-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-list/animated-list-02.tsx",
+        target: "@components/shadcn-space/animated-list/animated-list-02.tsx",
       },
     ],
     category: categories["animated-list"],
@@ -78,7 +78,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-list/animated-list-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-list/animated-list-03.tsx",
+        target: "@components/shadcn-space/animated-list/animated-list-03.tsx",
       },
     ],
     category: categories["animated-list"],
@@ -94,12 +94,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/marquee/marquee-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/marquee/marquee-02.tsx",
+        target: "@components/shadcn-space/marquee/marquee-02.tsx",
       },
       {
         path: "src/components/shadcn-space/animations/marquee.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animations/marquee.tsx",
+        target: "@components/shadcn-space/animations/marquee.tsx",
       },
     ],
     category: categories["marquee"],
@@ -115,7 +115,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/accordion/accordion-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/accordion/accordion-01.tsx",
+        target: "@components/shadcn-space/accordion/accordion-01.tsx",
       },
     ],
     category: categories["accordion"],
@@ -131,7 +131,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/accordion/accordion-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/accordion/accordion-02.tsx",
+        target: "@components/shadcn-space/accordion/accordion-02.tsx",
       },
     ],
     category: categories["accordion"],
@@ -148,7 +148,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/accordion/accordion-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/accordion/accordion-03.tsx",
+        target: "@components/shadcn-space/accordion/accordion-03.tsx",
       },
     ],
     category: categories["accordion"],
@@ -165,7 +165,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/accordion/accordion-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/accordion/accordion-04.tsx",
+        target: "@components/shadcn-space/accordion/accordion-04.tsx",
       },
     ],
     category: categories["accordion"],
@@ -182,7 +182,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/accordion/accordion-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/accordion/accordion-05.tsx",
+        target: "@components/shadcn-space/accordion/accordion-05.tsx",
       },
     ],
     category: categories["accordion"],
@@ -199,7 +199,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/accordion/accordion-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/accordion/accordion-06.tsx",
+        target: "@components/shadcn-space/accordion/accordion-06.tsx",
       },
     ],
     category: categories["accordion"],
@@ -216,7 +216,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/accordion/accordion-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/accordion/accordion-07.tsx",
+        target: "@components/shadcn-space/accordion/accordion-07.tsx",
       },
     ],
     category: categories["accordion"],
@@ -232,7 +232,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/avatar/avatar-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/avatar/avatar-01.tsx",
+        target: "@components/shadcn-space/avatar/avatar-01.tsx",
       },
     ],
     category: categories["avatar"],
@@ -249,7 +249,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/avatar/avatar-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/avatar/avatar-02.tsx",
+        target: "@components/shadcn-space/avatar/avatar-02.tsx",
       },
     ],
     category: categories["avatar"],
@@ -266,7 +266,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/avatar/avatar-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/avatar/avatar-03.tsx",
+        target: "@components/shadcn-space/avatar/avatar-03.tsx",
       },
     ],
     category: categories["avatar"],
@@ -283,7 +283,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/avatar/avatar-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/avatar/avatar-04.tsx",
+        target: "@components/shadcn-space/avatar/avatar-04.tsx",
       },
     ],
     category: categories["avatar"],
@@ -300,7 +300,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/avatar/avatar-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/avatar/avatar-05.tsx",
+        target: "@components/shadcn-space/avatar/avatar-05.tsx",
       },
     ],
     category: categories["avatar"],
@@ -316,7 +316,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/avatar/avatar-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/avatar/avatar-06.tsx",
+        target: "@components/shadcn-space/avatar/avatar-06.tsx",
       },
     ],
     category: categories["avatar"],
@@ -332,7 +332,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/avatar/avatar-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/avatar/avatar-07.tsx",
+        target: "@components/shadcn-space/avatar/avatar-07.tsx",
       },
     ],
     category: categories["avatar"],
@@ -348,7 +348,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/avatar/avatar-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/avatar/avatar-08.tsx",
+        target: "@components/shadcn-space/avatar/avatar-08.tsx",
       },
     ],
     category: categories["avatar"],
@@ -364,7 +364,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-01.tsx",
+        target: "@components/shadcn-space/button/button-01.tsx",
       },
     ],
     category: categories["button"],
@@ -380,12 +380,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-02.tsx",
+        target: "@components/shadcn-space/button/button-02.tsx",
       },
       {
         path: "src/components/shadcn-space/button/button-02.css",
         type: "registry:style",
-        target: "components/shadcn-space/button/button-02.css",
+        target: "@components/shadcn-space/button/button-02.css",
       },
     ],
     category: categories["button"],
@@ -401,7 +401,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-03.tsx",
+        target: "@components/shadcn-space/button/button-03.tsx",
       },
     ],
     category: categories["button"],
@@ -417,12 +417,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-04.tsx",
+        target: "@components/shadcn-space/button/button-04.tsx",
       },
       {
         path: "src/components/shadcn-space/button/button-04.css",
         type: "registry:style",
-        target: "components/shadcn-space/button/button-04.css",
+        target: "@components/shadcn-space/button/button-04.css",
       },
     ],
     category: categories["button"],
@@ -438,7 +438,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-05.tsx",
+        target: "@components/shadcn-space/button/button-05.tsx",
       },
     ],
     category: categories["button"],
@@ -454,7 +454,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-06.tsx",
+        target: "@components/shadcn-space/button/button-06.tsx",
       },
     ],
     category: categories["button"],
@@ -470,7 +470,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-07.tsx",
+        target: "@components/shadcn-space/button/button-07.tsx",
       },
     ],
     category: categories["button"],
@@ -486,7 +486,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-08.tsx",
+        target: "@components/shadcn-space/button/button-08.tsx",
       },
     ],
     category: categories["button"],
@@ -502,7 +502,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-09.tsx",
+        target: "@components/shadcn-space/button/button-09.tsx",
       },
     ],
     category: categories["button"],
@@ -518,7 +518,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-10.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-10.tsx",
+        target: "@components/shadcn-space/button/button-10.tsx",
       },
     ],
     category: categories["button"],
@@ -534,7 +534,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-11.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-11.tsx",
+        target: "@components/shadcn-space/button/button-11.tsx",
       },
     ],
     category: categories["button"],
@@ -550,7 +550,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-12.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-12.tsx",
+        target: "@components/shadcn-space/button/button-12.tsx",
       },
     ],
     category: categories["button"],
@@ -566,7 +566,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-13.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-13.tsx",
+        target: "@components/shadcn-space/button/button-13.tsx",
       },
     ],
     category: categories["button"],
@@ -582,7 +582,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-14.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-14.tsx",
+        target: "@components/shadcn-space/button/button-14.tsx",
       },
     ],
     category: categories["button"],
@@ -598,7 +598,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-15.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-15.tsx",
+        target: "@components/shadcn-space/button/button-15.tsx",
       },
     ],
     category: categories["button"],
@@ -614,7 +614,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-16.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-16.tsx",
+        target: "@components/shadcn-space/button/button-16.tsx",
       },
     ],
     category: categories["button"],
@@ -630,7 +630,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-17.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-17.tsx",
+        target: "@components/shadcn-space/button/button-17.tsx",
       },
     ],
     category: categories["button"],
@@ -646,7 +646,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-18.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-18.tsx",
+        target: "@components/shadcn-space/button/button-18.tsx",
       },
     ],
     category: categories["button"],
@@ -663,7 +663,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button/button-19.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button/button-19.tsx",
+        target: "@components/shadcn-space/button/button-19.tsx",
       },
     ],
     category: categories["button"],
@@ -680,7 +680,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button-group/button-group-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button-group/button-group-01.tsx",
+        target: "@components/shadcn-space/button-group/button-group-01.tsx",
       },
     ],
     category: categories["button-group"],
@@ -696,7 +696,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button-group/button-group-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button-group/button-group-02.tsx",
+        target: "@components/shadcn-space/button-group/button-group-02.tsx",
       },
     ],
     category: categories["button-group"],
@@ -712,7 +712,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button-group/button-group-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button-group/button-group-03.tsx",
+        target: "@components/shadcn-space/button-group/button-group-03.tsx",
       },
     ],
     category: categories["button-group"],
@@ -728,7 +728,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button-group/button-group-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button-group/button-group-04.tsx",
+        target: "@components/shadcn-space/button-group/button-group-04.tsx",
       },
     ],
     category: categories["button-group"],
@@ -744,7 +744,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button-group/button-group-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button-group/button-group-05.tsx",
+        target: "@components/shadcn-space/button-group/button-group-05.tsx",
       },
     ],
     category: categories["button-group"],
@@ -760,7 +760,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/button-group/button-group-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/button-group/button-group-06.tsx",
+        target: "@components/shadcn-space/button-group/button-group-06.tsx",
       },
     ],
     category: categories["button-group"],
@@ -776,7 +776,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-01.tsx",
+        target: "@components/shadcn-space/badge/badge-01.tsx",
       },
     ],
     category: categories["badge"],
@@ -793,7 +793,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-02.tsx",
+        target: "@components/shadcn-space/badge/badge-02.tsx",
       },
     ],
     category: categories["badge"],
@@ -809,7 +809,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-03.tsx",
+        target: "@components/shadcn-space/badge/badge-03.tsx",
       },
     ],
     category: categories["badge"],
@@ -825,7 +825,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-04.tsx",
+        target: "@components/shadcn-space/badge/badge-04.tsx",
       },
     ],
     category: categories["badge"],
@@ -841,7 +841,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-05.tsx",
+        target: "@components/shadcn-space/badge/badge-05.tsx",
       },
     ],
     category: categories["badge"],
@@ -857,7 +857,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-06.tsx",
+        target: "@components/shadcn-space/badge/badge-06.tsx",
       },
     ],
     category: categories["badge"],
@@ -873,7 +873,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-07.tsx",
+        target: "@components/shadcn-space/badge/badge-07.tsx",
       },
     ],
     category: categories["badge"],
@@ -891,7 +891,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-08.tsx",
+        target: "@components/shadcn-space/badge/badge-08.tsx",
       },
     ],
     category: categories["badge"],
@@ -909,7 +909,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/badge/badge-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/badge/badge-09.tsx",
+        target: "@components/shadcn-space/badge/badge-09.tsx",
       },
     ],
     category: categories["badge"],
@@ -927,7 +927,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-01.tsx",
+        target: "@components/shadcn-space/calendar/calendar-01.tsx",
       },
     ],
     category: categories["calendar"],
@@ -943,7 +943,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-02.tsx",
+        target: "@components/shadcn-space/calendar/calendar-02.tsx",
       },
     ],
     category: categories["calendar"],
@@ -959,7 +959,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-03.tsx",
+        target: "@components/shadcn-space/calendar/calendar-03.tsx",
       },
     ],
     category: categories["calendar"],
@@ -975,7 +975,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-04.tsx",
+        target: "@components/shadcn-space/calendar/calendar-04.tsx",
       },
     ],
     category: categories["calendar"],
@@ -991,7 +991,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-05.tsx",
+        target: "@components/shadcn-space/calendar/calendar-05.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1007,7 +1007,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-06.tsx",
+        target: "@components/shadcn-space/calendar/calendar-06.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1024,7 +1024,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-07.tsx",
+        target: "@components/shadcn-space/calendar/calendar-07.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1041,7 +1041,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-08.tsx",
+        target: "@components/shadcn-space/calendar/calendar-08.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1058,7 +1058,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-09.tsx",
+        target: "@components/shadcn-space/calendar/calendar-09.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1075,7 +1075,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-10.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-10.tsx",
+        target: "@components/shadcn-space/calendar/calendar-10.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1092,7 +1092,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-11.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-11.tsx",
+        target: "@components/shadcn-space/calendar/calendar-11.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1109,7 +1109,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-12.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-12.tsx",
+        target: "@components/shadcn-space/calendar/calendar-12.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1126,7 +1126,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-13.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-13.tsx",
+        target: "@components/shadcn-space/calendar/calendar-13.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1143,7 +1143,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-14.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-14.tsx",
+        target: "@components/shadcn-space/calendar/calendar-14.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1160,7 +1160,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/calendar/calendar-15.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/calendar/calendar-15.tsx",
+        target: "@components/shadcn-space/calendar/calendar-15.tsx",
       },
     ],
     category: categories["calendar"],
@@ -1177,7 +1177,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tooltip/tooltip-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tooltip/tooltip-01.tsx",
+        target: "@components/shadcn-space/tooltip/tooltip-01.tsx",
       },
     ],
     category: categories["tooltip"],
@@ -1193,7 +1193,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tooltip/tooltip-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tooltip/tooltip-02.tsx",
+        target: "@components/shadcn-space/tooltip/tooltip-02.tsx",
       },
     ],
     category: categories["tooltip"],
@@ -1209,7 +1209,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tooltip/tooltip-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tooltip/tooltip-03.tsx",
+        target: "@components/shadcn-space/tooltip/tooltip-03.tsx",
       },
     ],
     category: categories["tooltip"],
@@ -1225,7 +1225,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tooltip/tooltip-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tooltip/tooltip-04.tsx",
+        target: "@components/shadcn-space/tooltip/tooltip-04.tsx",
       },
     ],
     category: categories["tooltip"],
@@ -1241,7 +1241,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tooltip/tooltip-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tooltip/tooltip-05.tsx",
+        target: "@components/shadcn-space/tooltip/tooltip-05.tsx",
       },
     ],
     category: categories["tooltip"],
@@ -1257,7 +1257,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tooltip/tooltip-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tooltip/tooltip-06.tsx",
+        target: "@components/shadcn-space/tooltip/tooltip-06.tsx",
       },
     ],
     category: categories["tooltip"],
@@ -1273,7 +1273,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tooltip/tooltip-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tooltip/tooltip-07.tsx",
+        target: "@components/shadcn-space/tooltip/tooltip-07.tsx",
       },
     ],
     category: categories["tooltip"],
@@ -1289,12 +1289,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-text/animated-text-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-text/animated-text-01.tsx",
+        target: "@components/shadcn-space/animated-text/animated-text-01.tsx",
       },
       {
         path: "src/components/shadcn-space/animated-text/animated-text-01.css",
         type: "registry:component",
-        target: "components/shadcn-space/animated-text/animated-text-01.css",
+        target: "@components/shadcn-space/animated-text/animated-text-01.css",
       },
     ],
     category: categories["animated-text"],
@@ -1310,7 +1310,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-text/animated-text-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-text/animated-text-02.tsx",
+        target: "@components/shadcn-space/animated-text/animated-text-02.tsx",
       },
     ],
     category: categories["animated-text"],
@@ -1326,7 +1326,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-text/animated-text-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-text/animated-text-03.tsx",
+        target: "@components/shadcn-space/animated-text/animated-text-03.tsx",
       },
     ],
     category: categories["animated-text"],
@@ -1342,7 +1342,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-text/animated-text-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-text/animated-text-04.tsx",
+        target: "@components/shadcn-space/animated-text/animated-text-04.tsx",
       },
     ],
     category: categories["animated-text"],
@@ -1358,7 +1358,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-text/animated-text-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-text/animated-text-05.tsx",
+        target: "@components/shadcn-space/animated-text/animated-text-05.tsx",
       },
     ],
     category: categories["animated-text"],
@@ -1374,7 +1374,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-text/animated-text-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-text/animated-text-06.tsx",
+        target: "@components/shadcn-space/animated-text/animated-text-06.tsx",
       },
     ],
     category: categories["animated-text"],
@@ -1391,7 +1391,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/animated-text/animated-text-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/animated-text/animated-text-07.tsx",
+        target: "@components/shadcn-space/animated-text/animated-text-07.tsx",
       },
     ],
     category: categories["animated-text"],
@@ -1407,7 +1407,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-01.tsx",
+        target: "@components/shadcn-space/input/input-01.tsx",
       },
     ],
     category: categories["input"],
@@ -1423,7 +1423,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-02.tsx",
+        target: "@components/shadcn-space/input/input-02.tsx",
       },
     ],
     category: categories["input"],
@@ -1439,7 +1439,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-03.tsx",
+        target: "@components/shadcn-space/input/input-03.tsx",
       },
     ],
     category: categories["input"],
@@ -1455,7 +1455,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-04.tsx",
+        target: "@components/shadcn-space/input/input-04.tsx",
       },
     ],
     category: categories["input"],
@@ -1471,7 +1471,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-05.tsx",
+        target: "@components/shadcn-space/input/input-05.tsx",
       },
     ],
     category: categories["input"],
@@ -1487,7 +1487,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-06.tsx",
+        target: "@components/shadcn-space/input/input-06.tsx",
       },
     ],
     category: categories["input"],
@@ -1503,7 +1503,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-07.tsx",
+        target: "@components/shadcn-space/input/input-07.tsx",
       },
     ],
     category: categories["input"],
@@ -1519,7 +1519,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-08.tsx",
+        target: "@components/shadcn-space/input/input-08.tsx",
       },
     ],
     category: categories["input"],
@@ -1535,7 +1535,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-09.tsx",
+        target: "@components/shadcn-space/input/input-09.tsx",
       },
     ],
     category: categories["input"],
@@ -1551,7 +1551,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-10.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-10.tsx",
+        target: "@components/shadcn-space/input/input-10.tsx",
       },
     ],
     category: categories["input"],
@@ -1567,7 +1567,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-11.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-11.tsx",
+        target: "@components/shadcn-space/input/input-11.tsx",
       },
     ],
     category: categories["input"],
@@ -1583,7 +1583,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-12.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-12.tsx",
+        target: "@components/shadcn-space/input/input-12.tsx",
       },
     ],
     category: categories["input"],
@@ -1599,7 +1599,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-13.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-13.tsx",
+        target: "@components/shadcn-space/input/input-13.tsx",
       },
     ],
     category: categories["input"],
@@ -1615,7 +1615,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-14.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-14.tsx",
+        target: "@components/shadcn-space/input/input-14.tsx",
       },
     ],
     category: categories["input"],
@@ -1631,7 +1631,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-15.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-15.tsx",
+        target: "@components/shadcn-space/input/input-15.tsx",
       },
     ],
     category: categories["input"],
@@ -1647,7 +1647,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-16.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-16.tsx",
+        target: "@components/shadcn-space/input/input-16.tsx",
       },
     ],
     category: categories["input"],
@@ -1663,7 +1663,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-17.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-17.tsx",
+        target: "@components/shadcn-space/input/input-17.tsx",
       },
     ],
     category: categories["input"],
@@ -1679,7 +1679,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-18.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-18.tsx",
+        target: "@components/shadcn-space/input/input-18.tsx",
       },
     ],
     category: categories["input"],
@@ -1695,7 +1695,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input/input-19.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input/input-19.tsx",
+        target: "@components/shadcn-space/input/input-19.tsx",
       },
     ],
     category: categories["input"],
@@ -1711,7 +1711,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-01.tsx",
+        target: "@components/shadcn-space/textarea/textarea-01.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1727,7 +1727,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-02.tsx",
+        target: "@components/shadcn-space/textarea/textarea-02.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1743,7 +1743,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-03.tsx",
+        target: "@components/shadcn-space/textarea/textarea-03.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1759,7 +1759,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-04.tsx",
+        target: "@components/shadcn-space/textarea/textarea-04.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1775,7 +1775,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-05.tsx",
+        target: "@components/shadcn-space/textarea/textarea-05.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1791,7 +1791,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-06.tsx",
+        target: "@components/shadcn-space/textarea/textarea-06.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1807,7 +1807,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-07.tsx",
+        target: "@components/shadcn-space/textarea/textarea-07.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1823,7 +1823,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-08.tsx",
+        target: "@components/shadcn-space/textarea/textarea-08.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1839,7 +1839,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/textarea/textarea-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/textarea/textarea-09.tsx",
+        target: "@components/shadcn-space/textarea/textarea-09.tsx",
       },
     ],
     category: categories["textarea"],
@@ -1855,7 +1855,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-01.tsx",
+        target: "@components/shadcn-space/select/select-01.tsx",
       },
     ],
     category: categories["select"],
@@ -1871,7 +1871,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-02.tsx",
+        target: "@components/shadcn-space/select/select-02.tsx",
       },
     ],
     category: categories["select"],
@@ -1887,7 +1887,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-03.tsx",
+        target: "@components/shadcn-space/select/select-03.tsx",
       },
     ],
     category: categories["select"],
@@ -1903,7 +1903,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-04.tsx",
+        target: "@components/shadcn-space/select/select-04.tsx",
       },
     ],
     category: categories["select"],
@@ -1919,7 +1919,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-05.tsx",
+        target: "@components/shadcn-space/select/select-05.tsx",
       },
     ],
     category: categories["select"],
@@ -1935,12 +1935,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-06.tsx",
+        target: "@components/shadcn-space/select/select-06.tsx",
       },
       {
         path: "src/components/ui/multi-select.tsx",
         type: "registry:component",
-        target: "components/ui/multi-select.tsx",
+        target: "@components/ui/multi-select.tsx",
       },
     ],
     category: categories["select"],
@@ -1956,7 +1956,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-07.tsx",
+        target: "@components/shadcn-space/select/select-07.tsx",
       },
     ],
     category: categories["select"],
@@ -1972,7 +1972,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-08.tsx",
+        target: "@components/shadcn-space/select/select-08.tsx",
       },
     ],
     category: categories["select"],
@@ -1988,7 +1988,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/select/select-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/select/select-09.tsx",
+        target: "@components/shadcn-space/select/select-09.tsx",
       },
     ],
     category: categories["select"],
@@ -2004,7 +2004,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-01.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-01.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2020,7 +2020,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-02.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-02.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2036,7 +2036,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-03.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-03.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2052,7 +2052,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-04.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-04.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2068,7 +2068,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-05.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-05.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2084,7 +2084,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-06.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-06.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2100,7 +2100,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-07.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-07.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2116,7 +2116,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-08.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-08.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2132,7 +2132,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/checkbox/checkbox-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/checkbox/checkbox-09.tsx",
+        target: "@components/shadcn-space/checkbox/checkbox-09.tsx",
       },
     ],
     category: categories["checkbox"],
@@ -2148,12 +2148,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/radio-group/radio-group-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/radio-group/radio-group-01.tsx",
+        target: "@components/shadcn-space/radio-group/radio-group-01.tsx",
       },
       {
         path: "src/components/ui/motion-radio-group.tsx",
         type: "registry:component",
-        target: "components/ui/motion-radio-group.tsx",
+        target: "@components/ui/motion-radio-group.tsx",
       },
     ],
     category: categories["radio-group"],
@@ -2169,7 +2169,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/radio-group/radio-group-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/radio-group/radio-group-02.tsx",
+        target: "@components/shadcn-space/radio-group/radio-group-02.tsx",
       },
     ],
     category: categories["radio-group"],
@@ -2185,7 +2185,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/radio-group/radio-group-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/radio-group/radio-group-03.tsx",
+        target: "@components/shadcn-space/radio-group/radio-group-03.tsx",
       },
     ],
     category: categories["radio-group"],
@@ -2201,7 +2201,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/radio-group/radio-group-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/radio-group/radio-group-04.tsx",
+        target: "@components/shadcn-space/radio-group/radio-group-04.tsx",
       },
     ],
     category: categories["radio-group"],
@@ -2217,7 +2217,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/radio-group/radio-group-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/radio-group/radio-group-05.tsx",
+        target: "@components/shadcn-space/radio-group/radio-group-05.tsx",
       },
     ],
     category: categories["radio-group"],
@@ -2233,7 +2233,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/radio-group/radio-group-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/radio-group/radio-group-06.tsx",
+        target: "@components/shadcn-space/radio-group/radio-group-06.tsx",
       },
     ],
     category: categories["radio-group"],
@@ -2249,7 +2249,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/switch/switch-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/switch/switch-01.tsx",
+        target: "@components/shadcn-space/switch/switch-01.tsx",
       },
     ],
     category: categories["switch"],
@@ -2265,7 +2265,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/switch/switch-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/switch/switch-02.tsx",
+        target: "@components/shadcn-space/switch/switch-02.tsx",
       },
     ],
     category: categories["switch"],
@@ -2281,7 +2281,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/switch/switch-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/switch/switch-03.tsx",
+        target: "@components/shadcn-space/switch/switch-03.tsx",
       },
     ],
     category: categories["switch"],
@@ -2297,7 +2297,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/switch/switch-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/switch/switch-04.tsx",
+        target: "@components/shadcn-space/switch/switch-04.tsx",
       },
     ],
     category: categories["switch"],
@@ -2313,7 +2313,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/switch/switch-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/switch/switch-05.tsx",
+        target: "@components/shadcn-space/switch/switch-05.tsx",
       },
     ],
     category: categories["switch"],
@@ -2329,7 +2329,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/switch/switch-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/switch/switch-06.tsx",
+        target: "@components/shadcn-space/switch/switch-06.tsx",
       },
     ],
     category: categories["switch"],
@@ -2345,7 +2345,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tabs/tabs-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tabs/tabs-01.tsx",
+        target: "@components/shadcn-space/tabs/tabs-01.tsx",
       },
     ],
     category: categories["tabs"],
@@ -2361,7 +2361,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tabs/tabs-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tabs/tabs-02.tsx",
+        target: "@components/shadcn-space/tabs/tabs-02.tsx",
       },
     ],
     category: categories["tabs"],
@@ -2377,7 +2377,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tabs/tabs-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tabs/tabs-03.tsx",
+        target: "@components/shadcn-space/tabs/tabs-03.tsx",
       },
     ],
     category: categories["tabs"],
@@ -2393,7 +2393,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tabs/tabs-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tabs/tabs-04.tsx",
+        target: "@components/shadcn-space/tabs/tabs-04.tsx",
       },
     ],
     category: categories["tabs"],
@@ -2409,7 +2409,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tabs/tabs-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tabs/tabs-05.tsx",
+        target: "@components/shadcn-space/tabs/tabs-05.tsx",
       },
     ],
     category: categories["tabs"],
@@ -2426,7 +2426,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tabs/tabs-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tabs/tabs-06.tsx",
+        target: "@components/shadcn-space/tabs/tabs-06.tsx",
       },
     ],
     category: categories["tabs"],
@@ -2443,7 +2443,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/tabs/tabs-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/tabs/tabs-07.tsx",
+        target: "@components/shadcn-space/tabs/tabs-07.tsx",
       },
     ],
     category: categories["tabs"],
@@ -2460,7 +2460,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-01.tsx",
+        target: "@components/shadcn-space/card/card-01.tsx",
       },
     ],
     category: categories["card"],
@@ -2476,7 +2476,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-02.tsx",
+        target: "@components/shadcn-space/card/card-02.tsx",
       },
     ],
     category: categories["card"],
@@ -2492,7 +2492,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-03.tsx",
+        target: "@components/shadcn-space/card/card-03.tsx",
       },
     ],
     category: categories["card"],
@@ -2508,7 +2508,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-04.tsx",
+        target: "@components/shadcn-space/card/card-04.tsx",
       },
     ],
     category: categories["card"],
@@ -2524,7 +2524,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-05.tsx",
+        target: "@components/shadcn-space/card/card-05.tsx",
       },
     ],
     category: categories["card"],
@@ -2540,7 +2540,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-06.tsx",
+        target: "@components/shadcn-space/card/card-06.tsx",
       },
     ],
     category: categories["card"],
@@ -2556,7 +2556,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-07.tsx",
+        target: "@components/shadcn-space/card/card-07.tsx",
       },
     ],
     category: categories["card"],
@@ -2580,7 +2580,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-08.tsx",
+        target: "@components/shadcn-space/card/card-08.tsx",
       },
     ],
     category: categories["card"],
@@ -2596,7 +2596,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-09.tsx",
+        target: "@components/shadcn-space/card/card-09.tsx",
       },
     ],
     category: categories["card"],
@@ -2612,7 +2612,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-10.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-10.tsx",
+        target: "@components/shadcn-space/card/card-10.tsx",
       },
     ],
     category: categories["card"],
@@ -2628,7 +2628,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-11.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-11.tsx",
+        target: "@components/shadcn-space/card/card-11.tsx",
       },
     ],
     category: categories["card"],
@@ -2644,7 +2644,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-12.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-12.tsx",
+        target: "@components/shadcn-space/card/card-12.tsx",
       },
     ],
     category: categories["card"],
@@ -2660,7 +2660,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-13.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-13.tsx",
+        target: "@components/shadcn-space/card/card-13.tsx",
       },
     ],
     category: categories["card"],
@@ -2677,7 +2677,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-14.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-14.tsx",
+        target: "@components/shadcn-space/card/card-14.tsx",
       },
     ],
     category: categories["card"],
@@ -2695,7 +2695,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/card/card-15.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/card/card-15.tsx",
+        target: "@components/shadcn-space/card/card-15.tsx",
       },
     ],
     category: categories["card"],
@@ -2712,7 +2712,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/shine-border/shine-border-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/shine-border/shine-border-01.tsx',
+        target: '@components/shadcn-space/shine-border/shine-border-01.tsx',
       }
     ],
     category: categories["shine-border"],
@@ -2729,7 +2729,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/shine-border/shine-border-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/shine-border/shine-border-02.tsx",
+        target: "@components/shadcn-space/shine-border/shine-border-02.tsx",
       },
     ],
     category: categories["shine-border"],
@@ -2746,7 +2746,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/shine-border/shine-border-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/shine-border/shine-border-03.tsx",
+        target: "@components/shadcn-space/shine-border/shine-border-03.tsx",
       },
     ],
     category: categories["shine-border"],
@@ -2763,7 +2763,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/shine-border/shine-border-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/shine-border/shine-border-04.tsx",
+        target: "@components/shadcn-space/shine-border/shine-border-04.tsx",
       },
     ],
     category: categories["shine-border"],
@@ -2779,7 +2779,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/number-ticker/number-ticker-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/number-ticker/number-ticker-01.tsx',
+        target: '@components/shadcn-space/number-ticker/number-ticker-01.tsx',
       }
     ],
     category: categories["number-ticker"],
@@ -2796,7 +2796,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/number-ticker/number-ticker-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/number-ticker/number-ticker-02.tsx",
+        target: "@components/shadcn-space/number-ticker/number-ticker-02.tsx",
       },
     ],
     category: categories["number-ticker"],
@@ -2813,7 +2813,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/number-ticker/number-ticker-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/number-ticker/number-ticker-03.tsx",
+        target: "@components/shadcn-space/number-ticker/number-ticker-03.tsx",
       },
     ],
     category: categories["number-ticker"],
@@ -2830,7 +2830,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/number-ticker/number-ticker-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/number-ticker/number-ticker-04.tsx",
+        target: "@components/shadcn-space/number-ticker/number-ticker-04.tsx",
       },
     ],
     category: categories["number-ticker"],
@@ -2847,7 +2847,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/number-ticker/number-ticker-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/number-ticker/number-ticker-05.tsx",
+        target: "@components/shadcn-space/number-ticker/number-ticker-05.tsx",
       },
     ],
     category: categories["number-ticker"],
@@ -2863,7 +2863,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/spinning-text/spinning-text-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/spinning-text/spinning-text-01.tsx',
+        target: '@components/shadcn-space/spinning-text/spinning-text-01.tsx',
       }
     ],
     category: categories["spinning-text"],
@@ -2879,7 +2879,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/spinning-text/spinning-text-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/spinning-text/spinning-text-02.tsx",
+        target: "@components/shadcn-space/spinning-text/spinning-text-02.tsx",
       },
     ],
     category: categories["spinning-text"],
@@ -2895,7 +2895,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/date-picker/date-picker-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/date-picker/date-picker-01.tsx',
+        target: '@components/shadcn-space/date-picker/date-picker-01.tsx',
       }
     ],
     category: categories["date-picker"],
@@ -2911,7 +2911,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/date-picker/date-picker-02.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/date-picker/date-picker-02.tsx',
+        target: '@components/shadcn-space/date-picker/date-picker-02.tsx',
       }
     ],
     category: categories["date-picker"],
@@ -2927,7 +2927,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/file-upload/file-upload-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/file-upload/file-upload-01.tsx',
+        target: '@components/shadcn-space/file-upload/file-upload-01.tsx',
       }
     ],
     category: categories["file-upload"],
@@ -2943,7 +2943,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/combobox/combobox-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/combobox/combobox-01.tsx',
+        target: '@components/shadcn-space/combobox/combobox-01.tsx',
       }
     ],
     category: categories["combobox"],
@@ -2959,7 +2959,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/combobox/combobox-02.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/combobox/combobox-02.tsx',
+        target: '@components/shadcn-space/combobox/combobox-02.tsx',
       }
     ],
     category: categories["combobox"],
@@ -2975,7 +2975,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/combobox/combobox-03.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/combobox/combobox-03.tsx',
+        target: '@components/shadcn-space/combobox/combobox-03.tsx',
       }
     ],
     category: categories["combobox"],
@@ -2991,7 +2991,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/combobox/combobox-04.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/combobox/combobox-04.tsx',
+        target: '@components/shadcn-space/combobox/combobox-04.tsx',
       }
     ],
     category: categories["combobox"],
@@ -3007,7 +3007,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/combobox/combobox-05.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/combobox/combobox-05.tsx',
+        target: '@components/shadcn-space/combobox/combobox-05.tsx',
       }
     ],
     category: categories["combobox"],
@@ -3023,7 +3023,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/combobox/combobox-06.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/combobox/combobox-06.tsx',
+        target: '@components/shadcn-space/combobox/combobox-06.tsx',
       }
     ],
     category: categories["combobox"],
@@ -3039,7 +3039,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/carousel/carousel-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/carousel/carousel-01.tsx',
+        target: '@components/shadcn-space/carousel/carousel-01.tsx',
       }
     ],
     category: categories["carousel"],
@@ -3055,7 +3055,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/carousel/carousel-02.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/carousel/carousel-02.tsx',
+        target: '@components/shadcn-space/carousel/carousel-02.tsx',
       }
     ],
     category: categories["carousel"],
@@ -3071,7 +3071,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/carousel/carousel-03.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/carousel/carousel-03.tsx',
+        target: '@components/shadcn-space/carousel/carousel-03.tsx',
       }
     ],
     category: categories["carousel"],
@@ -3087,7 +3087,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/carousel/carousel-04.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/carousel/carousel-04.tsx',
+        target: '@components/shadcn-space/carousel/carousel-04.tsx',
       }
     ],
     category: categories["carousel"],
@@ -3103,7 +3103,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/alert/alert-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/alert/alert-01.tsx',
+        target: '@components/shadcn-space/alert/alert-01.tsx',
       }
     ],
     category: categories["alert"],
@@ -3119,7 +3119,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/alert/alert-02.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/alert/alert-02.tsx',
+        target: '@components/shadcn-space/alert/alert-02.tsx',
       }
     ],
     category: categories["alert"],
@@ -3135,12 +3135,12 @@ export const components = [
       {
         path: 'src/components/shadcn-space/alert/alert-03.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/alert/alert-03.tsx',
+        target: '@components/shadcn-space/alert/alert-03.tsx',
       },
       {
         path: 'src/components/ui/confetti.tsx',
         type: "registry:component",
-        target: 'components/ui/confetti.tsx'
+        target: '@components/ui/confetti.tsx'
       }
     ],
     category: categories["alert"],
@@ -3156,7 +3156,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/alert/alert-04.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/alert/alert-04.tsx',
+        target: '@components/shadcn-space/alert/alert-04.tsx',
       }
     ],
     category: categories["alert"],
@@ -3172,7 +3172,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/alert/alert-05.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/alert/alert-05.tsx',
+        target: '@components/shadcn-space/alert/alert-05.tsx',
       }
     ],
     category: categories["alert"],
@@ -3188,7 +3188,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/alert/alert-06.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/alert/alert-06.tsx',
+        target: '@components/shadcn-space/alert/alert-06.tsx',
       }
     ],
     category: categories["alert"],
@@ -3204,7 +3204,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/breadcrumb/breadcrumb-01.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/breadcrumb/breadcrumb-01.tsx',
+        target: '@components/shadcn-space/breadcrumb/breadcrumb-01.tsx',
       }
     ],
     category: categories["breadcrumb"],
@@ -3220,7 +3220,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/breadcrumb/breadcrumb-02.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/breadcrumb/breadcrumb-02.tsx',
+        target: '@components/shadcn-space/breadcrumb/breadcrumb-02.tsx',
       }
     ],
     category: categories["breadcrumb"],
@@ -3236,7 +3236,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/breadcrumb/breadcrumb-03.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/breadcrumb/breadcrumb-03.tsx',
+        target: '@components/shadcn-space/breadcrumb/breadcrumb-03.tsx',
       }
     ],
     category: categories["breadcrumb"],
@@ -3252,7 +3252,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/breadcrumb/breadcrumb-04.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/breadcrumb/breadcrumb-04.tsx',
+        target: '@components/shadcn-space/breadcrumb/breadcrumb-04.tsx',
       }
     ],
     category: categories["breadcrumb"],
@@ -3268,7 +3268,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/breadcrumb/breadcrumb-05.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/breadcrumb/breadcrumb-05.tsx',
+        target: '@components/shadcn-space/breadcrumb/breadcrumb-05.tsx',
       }
     ],
     category: categories["breadcrumb"],
@@ -3284,7 +3284,7 @@ export const components = [
       {
         path: 'src/components/shadcn-space/breadcrumb/breadcrumb-06.tsx',
         type: "registry:component",
-        target: 'components/shadcn-space/breadcrumb/breadcrumb-06.tsx',
+        target: '@components/shadcn-space/breadcrumb/breadcrumb-06.tsx',
       }
     ],
     category: categories["breadcrumb"],
@@ -3300,7 +3300,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/dialog/dialog-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/dialog/dialog-01.tsx",
+        target: "@components/shadcn-space/dialog/dialog-01.tsx",
       },
     ],
     category: categories["dialog"],
@@ -3316,7 +3316,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/dialog/dialog-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/dialog/dialog-02.tsx",
+        target: "@components/shadcn-space/dialog/dialog-02.tsx",
       },
     ],
     category: categories["dialog"],
@@ -3332,7 +3332,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/dialog/dialog-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/dialog/dialog-03.tsx",
+        target: "@components/shadcn-space/dialog/dialog-03.tsx",
       },
     ],
     category: categories["dialog"],
@@ -3348,7 +3348,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/dialog/dialog-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/dialog/dialog-04.tsx",
+        target: "@components/shadcn-space/dialog/dialog-04.tsx",
       },
     ],
     category: categories["dialog"],
@@ -3364,7 +3364,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/dialog/dialog-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/dialog/dialog-05.tsx",
+        target: "@components/shadcn-space/dialog/dialog-05.tsx",
       },
     ],
     category: categories["dialog"],
@@ -3380,7 +3380,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/dialog/dialog-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/dialog/dialog-06.tsx",
+        target: "@components/shadcn-space/dialog/dialog-06.tsx",
       },
     ],
     category: categories["dialog"],
@@ -3396,7 +3396,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/popover/popover-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/popover/popover-01.tsx",
+        target: "@components/shadcn-space/popover/popover-01.tsx",
       },
     ],
     category: categories["popover"],
@@ -3412,7 +3412,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/popover/popover-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/popover/popover-02.tsx",
+        target: "@components/shadcn-space/popover/popover-02.tsx",
       },
     ],
     category: categories["popover"],
@@ -3428,7 +3428,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/popover/popover-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/popover/popover-03.tsx",
+        target: "@components/shadcn-space/popover/popover-03.tsx",
       },
     ],
     category: categories["popover"],
@@ -3444,7 +3444,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/popover/popover-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/popover/popover-04.tsx",
+        target: "@components/shadcn-space/popover/popover-04.tsx",
       },
     ],
     category: categories["popover"],
@@ -3460,7 +3460,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/popover/popover-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/popover/popover-05.tsx",
+        target: "@components/shadcn-space/popover/popover-05.tsx",
       },
     ],
     category: categories["popover"],
@@ -3476,7 +3476,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/popover/popover-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/popover/popover-06.tsx",
+        target: "@components/shadcn-space/popover/popover-06.tsx",
       },
     ],
     category: categories["popover"],
@@ -3492,7 +3492,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/slider/slider-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/slider/slider-01.tsx",
+        target: "@components/shadcn-space/slider/slider-01.tsx",
       },
     ],
     category: categories["slider"],
@@ -3508,7 +3508,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/slider/slider-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/slider/slider-02.tsx",
+        target: "@components/shadcn-space/slider/slider-02.tsx",
       },
     ],
     category: categories["slider"],
@@ -3524,7 +3524,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/slider/slider-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/slider/slider-03.tsx",
+        target: "@components/shadcn-space/slider/slider-03.tsx",
       },
     ],
     category: categories["slider"],
@@ -3541,7 +3541,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/slider/slider-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/slider/slider-04.tsx",
+        target: "@components/shadcn-space/slider/slider-04.tsx",
       },
     ],
     category: categories["slider"],
@@ -3557,7 +3557,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/skeleton/skeleton-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/skeleton/skeleton-01.tsx",
+        target: "@components/shadcn-space/skeleton/skeleton-01.tsx",
       },
     ],
     category: categories["skeleton"],
@@ -3574,7 +3574,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/skeleton/skeleton-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/skeleton/skeleton-02.tsx",
+        target: "@components/shadcn-space/skeleton/skeleton-02.tsx",
       },
     ],
     category: categories["skeleton"],
@@ -3591,7 +3591,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/skeleton/skeleton-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/skeleton/skeleton-03.tsx",
+        target: "@components/shadcn-space/skeleton/skeleton-03.tsx",
       },
     ],
     category: categories["skeleton"],
@@ -3608,7 +3608,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/spinner/spinner-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/spinner/spinner-01.tsx",
+        target: "@components/shadcn-space/spinner/spinner-01.tsx",
       },
     ],
     category: categories["spinner"],
@@ -3624,7 +3624,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/spinner/spinner-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/spinner/spinner-02.tsx",
+        target: "@components/shadcn-space/spinner/spinner-02.tsx",
       },
     ],
     category: categories["spinner"],
@@ -3640,7 +3640,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/spinner/spinner-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/spinner/spinner-03.tsx",
+        target: "@components/shadcn-space/spinner/spinner-03.tsx",
       },
     ],
     category: categories["spinner"],
@@ -3656,7 +3656,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/spinner/spinner-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/spinner/spinner-04.tsx",
+        target: "@components/shadcn-space/spinner/spinner-04.tsx",
       },
     ],
     category: categories["spinner"],
@@ -3672,7 +3672,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/spinner/spinner-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/spinner/spinner-05.tsx",
+        target: "@components/shadcn-space/spinner/spinner-05.tsx",
       },
     ],
     category: categories["spinner"],
@@ -3688,7 +3688,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/spinner/spinner-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/spinner/spinner-06.tsx",
+        target: "@components/shadcn-space/spinner/spinner-06.tsx",
       },
     ],
     category: categories["spinner"],
@@ -3705,7 +3705,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/spinner/spinner-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/spinner/spinner-07.tsx",
+        target: "@components/shadcn-space/spinner/spinner-07.tsx",
       },
     ],
     category: categories["spinner"],
@@ -3721,7 +3721,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/sonner/sonner-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/sonner/sonner-01.tsx",
+        target: "@components/shadcn-space/sonner/sonner-01.tsx",
       },
     ],
     category: categories["sonner"],
@@ -3737,7 +3737,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/sonner/sonner-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/sonner/sonner-02.tsx",
+        target: "@components/shadcn-space/sonner/sonner-02.tsx",
       },
     ],
     category: categories["sonner"],
@@ -3753,7 +3753,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/sonner/sonner-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/sonner/sonner-03.tsx",
+        target: "@components/shadcn-space/sonner/sonner-03.tsx",
       },
     ],
     category: categories["sonner"],
@@ -3770,7 +3770,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/sonner/sonner-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/sonner/sonner-04.tsx",
+        target: "@components/shadcn-space/sonner/sonner-04.tsx",
       },
     ],
     category: categories["sonner"],
@@ -3787,7 +3787,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/sonner/sonner-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/sonner/sonner-05.tsx",
+        target: "@components/shadcn-space/sonner/sonner-05.tsx",
       },
     ],
     category: categories["sonner"],
@@ -3804,7 +3804,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/sonner/sonner-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/sonner/sonner-06.tsx",
+        target: "@components/shadcn-space/sonner/sonner-06.tsx",
       },
     ],
     category: categories["sonner"],
@@ -3822,7 +3822,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/sonner/sonner-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/sonner/sonner-07.tsx",
+        target: "@components/shadcn-space/sonner/sonner-07.tsx",
       },
     ],
     category: categories["sonner"],
@@ -3839,7 +3839,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/pagination/pagination-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/pagination/pagination-01.tsx",
+        target: "@components/shadcn-space/pagination/pagination-01.tsx",
       },
     ],
     category: categories["pagination"],
@@ -3855,7 +3855,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/pagination/pagination-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/pagination/pagination-02.tsx",
+        target: "@components/shadcn-space/pagination/pagination-02.tsx",
       },
     ],
     category: categories["pagination"],
@@ -3871,7 +3871,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/pagination/pagination-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/pagination/pagination-03.tsx",
+        target: "@components/shadcn-space/pagination/pagination-03.tsx",
       },
     ],
     category: categories["pagination"],
@@ -3887,7 +3887,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/scroll-area/scroll-area-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/scroll-area/scroll-area-01.tsx",
+        target: "@components/shadcn-space/scroll-area/scroll-area-01.tsx",
       },
     ],
     category: categories["scroll-area"],
@@ -3903,7 +3903,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/scroll-area/scroll-area-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/scroll-area/scroll-area-02.tsx",
+        target: "@components/shadcn-space/scroll-area/scroll-area-02.tsx",
       },
     ],
     category: categories["scroll-area"],
@@ -3919,7 +3919,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/scroll-area/scroll-area-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/scroll-area/scroll-area-03.tsx",
+        target: "@components/shadcn-space/scroll-area/scroll-area-03.tsx",
       },
     ],
     category: categories["scroll-area"],
@@ -3935,7 +3935,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-mask/input-mask-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-mask/input-mask-01.tsx",
+        target: "@components/shadcn-space/input-mask/input-mask-01.tsx",
       },
     ],
     category: categories["input-mask"],
@@ -3951,7 +3951,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-mask/input-mask-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-mask/input-mask-02.tsx",
+        target: "@components/shadcn-space/input-mask/input-mask-02.tsx",
       },
     ],
     category: categories["input-mask"],
@@ -3967,7 +3967,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-mask/input-mask-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-mask/input-mask-03.tsx",
+        target: "@components/shadcn-space/input-mask/input-mask-03.tsx",
       },
     ],
     category: categories["input-mask"],
@@ -3983,7 +3983,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/collapsible/collapsible-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/collapsible/collapsible-01.tsx",
+        target: "@components/shadcn-space/collapsible/collapsible-01.tsx",
       },
     ],
     category: categories["collapsible"],
@@ -3999,7 +3999,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/collapsible/collapsible-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/collapsible/collapsible-02.tsx",
+        target: "@components/shadcn-space/collapsible/collapsible-02.tsx",
       },
     ],
     category: categories["collapsible"],
@@ -4015,7 +4015,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/collapsible/collapsible-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/collapsible/collapsible-03.tsx",
+        target: "@components/shadcn-space/collapsible/collapsible-03.tsx",
       },
     ],
     category: categories["collapsible"],
@@ -4031,7 +4031,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/progress/progress-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/progress/progress-01.tsx",
+        target: "@components/shadcn-space/progress/progress-01.tsx",
       },
     ],
     category: categories["progress"],
@@ -4047,7 +4047,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/progress/progress-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/progress/progress-02.tsx",
+        target: "@components/shadcn-space/progress/progress-02.tsx",
       },
     ],
     category: categories["progress"],
@@ -4063,7 +4063,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/progress/progress-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/progress/progress-03.tsx",
+        target: "@components/shadcn-space/progress/progress-03.tsx",
       },
     ],
     category: categories["progress"],
@@ -4080,7 +4080,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/progress/progress-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/progress/progress-04.tsx",
+        target: "@components/shadcn-space/progress/progress-04.tsx",
       },
     ],
     category: categories["progress"],
@@ -4097,7 +4097,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/dropdown-menu/dropdown-menu-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/dropdown-menu/dropdown-menu-01.tsx",
+        target: "@components/shadcn-space/dropdown-menu/dropdown-menu-01.tsx",
       },
     ],
     category: categories["dropdown-menu"],
@@ -4114,7 +4114,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/dropdown-menu/dropdown-menu-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/dropdown-menu/dropdown-menu-02.tsx",
+        target: "@components/shadcn-space/dropdown-menu/dropdown-menu-02.tsx",
       },
     ],
     category: categories["dropdown-menu"],
@@ -4130,7 +4130,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-01.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-01.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4146,7 +4146,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-02.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-02.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4162,7 +4162,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-03.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-03.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4178,7 +4178,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-04.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-04.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4194,7 +4194,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-05.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-05.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4210,7 +4210,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-06.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-06.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4226,7 +4226,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-07.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-07.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4243,7 +4243,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-08.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-08.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4259,7 +4259,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/input-otp/input-otp-09.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/input-otp/input-otp-09.tsx",
+        target: "@components/shadcn-space/input-otp/input-otp-09.tsx",
       },
     ],
     category: categories["input-otp"],
@@ -4275,12 +4275,12 @@ export const components = [
       {
         path: "src/components/ui/autocomplete.tsx",
         type: "registry:component",
-        target: "components/ui/autocomplete.tsx",
+        target: "@components/ui/autocomplete.tsx",
       },
       {
         path: "src/components/shadcn-space/autocomplete/autocomplete-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/autocomplete/autocomplete-01.tsx",
+        target: "@components/shadcn-space/autocomplete/autocomplete-01.tsx",
       },
     ],
     category: categories["autocomplete"],
@@ -4297,12 +4297,12 @@ export const components = [
       {
         path: "src/components/ui/autocomplete.tsx",
         type: "registry:component",
-        target: "components/ui/autocomplete.tsx",
+        target: "@components/ui/autocomplete.tsx",
       },
       {
         path: "src/components/shadcn-space/autocomplete/autocomplete-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/autocomplete/autocomplete-02.tsx",
+        target: "@components/shadcn-space/autocomplete/autocomplete-02.tsx",
       },
     ],
     category: categories["autocomplete"],
@@ -4319,12 +4319,12 @@ export const components = [
       {
         path: "src/components/ui/autocomplete.tsx",
         type: "registry:component",
-        target: "components/ui/autocomplete.tsx",
+        target: "@components/ui/autocomplete.tsx",
       },
       {
         path: "src/components/shadcn-space/autocomplete/autocomplete-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/autocomplete/autocomplete-03.tsx",
+        target: "@components/shadcn-space/autocomplete/autocomplete-03.tsx",
       },
     ],
     category: categories["autocomplete"],
@@ -4341,12 +4341,12 @@ export const components = [
       {
         path: "src/components/ui/autocomplete.tsx",
         type: "registry:component",
-        target: "components/ui/autocomplete.tsx",
+        target: "@components/ui/autocomplete.tsx",
       },
       {
         path: "src/components/shadcn-space/autocomplete/autocomplete-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/autocomplete/autocomplete-04.tsx",
+        target: "@components/shadcn-space/autocomplete/autocomplete-04.tsx",
       },
     ],
     category: categories["autocomplete"],
@@ -4363,12 +4363,12 @@ export const components = [
       {
         path: "src/components/ui/autocomplete.tsx",
         type: "registry:component",
-        target: "components/ui/autocomplete.tsx",
+        target: "@components/ui/autocomplete.tsx",
       },
       {
         path: "src/components/shadcn-space/autocomplete/autocomplete-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/autocomplete/autocomplete-05.tsx",
+        target: "@components/shadcn-space/autocomplete/autocomplete-05.tsx",
       },
     ],
     category: categories["autocomplete"],
@@ -4385,12 +4385,12 @@ export const components = [
       {
         path: "src/components/ui/autocomplete.tsx",
         type: "registry:component",
-        target: "components/ui/autocomplete.tsx",
+        target: "@components/ui/autocomplete.tsx",
       },
       {
         path: "src/components/shadcn-space/autocomplete/autocomplete-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/autocomplete/autocomplete-06.tsx",
+        target: "@components/shadcn-space/autocomplete/autocomplete-06.tsx",
       },
     ],
     category: categories["autocomplete"],
@@ -4407,7 +4407,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/context-menu/context-menu-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/context-menu/context-menu-01.tsx",
+        target: "@components/shadcn-space/context-menu/context-menu-01.tsx",
       },
     ],
     category: categories["context-menu"],
@@ -4424,7 +4424,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/context-menu/context-menu-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/context-menu/context-menu-02.tsx",
+        target: "@components/shadcn-space/context-menu/context-menu-02.tsx",
       },
     ],
     category: categories["context-menu"],
@@ -4441,7 +4441,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/command/command-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/command/command-01.tsx",
+        target: "@components/shadcn-space/command/command-01.tsx",
       },
     ],
     category: categories["command"],
@@ -4458,7 +4458,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/command/command-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/command/command-02.tsx",
+        target: "@components/shadcn-space/command/command-02.tsx",
       },
     ],
     category: categories["command"],
@@ -4475,7 +4475,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/command/command-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/command/command-03.tsx",
+        target: "@components/shadcn-space/command/command-03.tsx",
       },
     ],
     category: categories["command"],
@@ -4492,7 +4492,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/command/command-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/command/command-04.tsx",
+        target: "@components/shadcn-space/command/command-04.tsx",
       },
     ],
     category: categories["command"],
@@ -4509,7 +4509,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/command/command-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/command/command-05.tsx",
+        target: "@components/shadcn-space/command/command-05.tsx",
       },
     ],
     category: categories["command"],
@@ -4526,7 +4526,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/command/command-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/command/command-06.tsx",
+        target: "@components/shadcn-space/command/command-06.tsx",
       },
     ],
     category: categories["command"],
@@ -4543,7 +4543,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/command/command-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/command/command-07.tsx",
+        target: "@components/shadcn-space/command/command-07.tsx",
       },
     ],
     category: categories["command"],
@@ -4560,12 +4560,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/code-block/code-block-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/code-block/code-block-01.tsx",
+        target: "@components/shadcn-space/code-block/code-block-01.tsx",
       },
       {
         path: "src/components/ui/code-block.tsx",
         type: "registry:ui",
-        target: "components/ui/code-block.tsx",
+        target: "@components/ui/code-block.tsx",
       },
     ],
     category: categories["code-block"],
@@ -4582,12 +4582,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/code-block/code-block-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/code-block/code-block-02.tsx",
+        target: "@components/shadcn-space/code-block/code-block-02.tsx",
       },
       {
         path: "src/components/ui/code-block.tsx",
         type: "registry:ui",
-        target: "components/ui/code-block.tsx",
+        target: "@components/ui/code-block.tsx",
       },
     ],
     category: categories["code-block"],
@@ -4604,12 +4604,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/code-block/code-block-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/code-block/code-block-03.tsx",
+        target: "@components/shadcn-space/code-block/code-block-03.tsx",
       },
       {
         path: "src/components/ui/code-block.tsx",
         type: "registry:ui",
-        target: "components/ui/code-block.tsx",
+        target: "@components/ui/code-block.tsx",
       },
     ],
     category: categories["code-block"],
@@ -4626,12 +4626,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/code-block/code-block-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/code-block/code-block-04.tsx",
+        target: "@components/shadcn-space/code-block/code-block-04.tsx",
       },
       {
         path: "src/components/ui/code-block.tsx",
         type: "registry:ui",
-        target: "components/ui/code-block.tsx",
+        target: "@components/ui/code-block.tsx",
       },
     ],
     category: categories["code-block"],
@@ -4648,12 +4648,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/code-block/code-block-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/code-block/code-block-05.tsx",
+        target: "@components/shadcn-space/code-block/code-block-05.tsx",
       },
       {
         path: "src/components/ui/code-block.tsx",
         type: "registry:ui",
-        target: "components/ui/code-block.tsx",
+        target: "@components/ui/code-block.tsx",
       },
     ],
     category: categories["code-block"],
@@ -4670,12 +4670,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/code-block/code-block-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/code-block/code-block-06.tsx",
+        target: "@components/shadcn-space/code-block/code-block-06.tsx",
       },
       {
         path: "src/components/ui/code-block.tsx",
         type: "registry:ui",
-        target: "components/ui/code-block.tsx",
+        target: "@components/ui/code-block.tsx",
       },
     ],
     category: categories["code-block"],
@@ -4692,12 +4692,12 @@ export const components = [
       {
         path: "src/components/shadcn-space/code-block/code-block-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/code-block/code-block-07.tsx",
+        target: "@components/shadcn-space/code-block/code-block-07.tsx",
       },
       {
         path: "src/components/ui/code-block.tsx",
         type: "registry:ui",
-        target: "components/ui/code-block.tsx",
+        target: "@components/ui/code-block.tsx",
       },
     ],
     category: categories["code-block"],
@@ -4714,7 +4714,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/kbd/kbd-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/kbd/kbd-01.tsx",
+        target: "@components/shadcn-space/kbd/kbd-01.tsx",
       },
     ],
     category: categories["kbd"],
@@ -4731,7 +4731,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/kbd/kbd-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/kbd/kbd-02.tsx",
+        target: "@components/shadcn-space/kbd/kbd-02.tsx",
       },
     ],
     category: categories["kbd"],
@@ -4748,7 +4748,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/kbd/kbd-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/kbd/kbd-03.tsx",
+        target: "@components/shadcn-space/kbd/kbd-03.tsx",
       },
     ],
     category: categories["kbd"],
@@ -4765,7 +4765,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/kbd/kbd-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/kbd/kbd-04.tsx",
+        target: "@components/shadcn-space/kbd/kbd-04.tsx",
       },
     ],
     category: categories["kbd"],
@@ -4782,7 +4782,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/kbd/kbd-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/kbd/kbd-05.tsx",
+        target: "@components/shadcn-space/kbd/kbd-05.tsx",
       },
     ],
     category: categories["kbd"],
@@ -4799,7 +4799,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/label/label-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/label/label-01.tsx",
+        target: "@components/shadcn-space/label/label-01.tsx",
       },
     ],
     category: categories["label"],
@@ -4816,7 +4816,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/label/label-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/label/label-02.tsx",
+        target: "@components/shadcn-space/label/label-02.tsx",
       },
     ],
     category: categories["label"],
@@ -4833,7 +4833,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/label/label-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/label/label-03.tsx",
+        target: "@components/shadcn-space/label/label-03.tsx",
       },
     ],
     category: categories["label"],
@@ -4850,7 +4850,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/label/label-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/label/label-04.tsx",
+        target: "@components/shadcn-space/label/label-04.tsx",
       },
     ],
     category: categories["label"],
@@ -4867,7 +4867,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/label/label-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/label/label-05.tsx",
+        target: "@components/shadcn-space/label/label-05.tsx",
       },
     ],
     category: categories["label"],
@@ -4884,7 +4884,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/label/label-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/label/label-06.tsx",
+        target: "@components/shadcn-space/label/label-06.tsx",
       },
     ],
     category: categories["label"],
@@ -4901,7 +4901,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/separator/separator-01.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/separator/separator-01.tsx",
+        target: "@components/shadcn-space/separator/separator-01.tsx",
       },
     ],
     category: categories["separator"],
@@ -4918,7 +4918,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/separator/separator-02.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/separator/separator-02.tsx",
+        target: "@components/shadcn-space/separator/separator-02.tsx",
       },
     ],
     category: categories["separator"],
@@ -4935,7 +4935,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/separator/separator-03.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/separator/separator-03.tsx",
+        target: "@components/shadcn-space/separator/separator-03.tsx",
       },
     ],
     category: categories["separator"],
@@ -4952,7 +4952,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/separator/separator-04.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/separator/separator-04.tsx",
+        target: "@components/shadcn-space/separator/separator-04.tsx",
       },
     ],
     category: categories["separator"],
@@ -4969,7 +4969,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/separator/separator-05.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/separator/separator-05.tsx",
+        target: "@components/shadcn-space/separator/separator-05.tsx",
       },
     ],
     category: categories["separator"],
@@ -4986,7 +4986,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/separator/separator-06.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/separator/separator-06.tsx",
+        target: "@components/shadcn-space/separator/separator-06.tsx",
       },
     ],
     category: categories["separator"],
@@ -5003,7 +5003,7 @@ export const components = [
       {
         path: "src/components/shadcn-space/separator/separator-07.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/separator/separator-07.tsx",
+        target: "@components/shadcn-space/separator/separator-07.tsx",
       },
     ],
     category: categories["separator"],
@@ -5020,10 +5020,27 @@ export const components = [
       {
         path: "src/components/shadcn-space/separator/separator-08.tsx",
         type: "registry:component",
-        target: "components/shadcn-space/separator/separator-08.tsx",
+        target: "@components/shadcn-space/separator/separator-08.tsx",
       },
     ],
     category: categories["separator"],
     isNew: true,
   },
+  {
+    name: "logo",
+    title: "Logo",
+    description: "Logo component",
+    type: "registry:component",
+    dependencies: [],
+    registryDependencies: [],
+    files: [
+      {
+        path: "src/assets/logo/logo.tsx",
+        type: "registry:component",
+        target: "@components/assets/logo/logo.tsx"
+      }
+    ],
+    category: categories["logo"],
+  }
+
 ];
