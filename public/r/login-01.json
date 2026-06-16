@@ -3,9 +3,7 @@
   "name": "login-01",
   "title": "Login 01 - Developer-Friendly Login Page",
   "description": "A clean, secure login page with Google and GitHub authentication, remember-me support, and password recovery, built for modern SaaS products using shadcn UI.",
-  "dependencies": [
-    ""
-  ],
+  "dependencies": [],
   "registryDependencies": [
     "card",
     "button",

@@ -88,8 +88,8 @@ export const components = [
     title: "Marquee-02 - Brands",
     description: "Brands marquee component",
     type: "registry:component",
-    dependencies: [""],
-    registryDependencies: [""],
+    dependencies: [],
+    registrydependencies: [],
     files: [
       {
         path: "src/components/shadcn-space/marquee/marquee-02.tsx",
@@ -954,7 +954,7 @@ export const components = [
     description: "Calendar component",
     type: "registry:component",
     registryDependencies: ["calendar", "scrollarea", "button"],
-    dependencies: [""],
+    dependencies: [],
     files: [
       {
         path: "src/components/shadcn-space/calendar/calendar-03.tsx",

@@ -725,7 +725,7 @@ export const blocks: RegistryBlock[] = [
     figmaLink: "https://www.figma.com/design/xN0ICHXEd4moz5sfE5no4r/shadcnspace-figma-uikit-free?node-id=3678-5036&t=s6w7yYhqg5U0ajyZ-1",
     description: 'A conversion focused contact section with project inquiry form, contact details, and trust badges, ideal for agencies or freelancers to capture qualified leads and start meaningful client conversations.',
     type: "registry:block",
-    dependencies: [""],
+    dependencies: [],
     registryDependencies: [
       "card",
       "button",
@@ -1191,7 +1191,7 @@ export const blocks: RegistryBlock[] = [
     figmaLink: "https://www.figma.com/design/xN0ICHXEd4moz5sfE5no4r/shadcnspace-figma-uikit-free?node-id=3678-6027&t=s6w7yYhqg5U0ajyZ-1",
     description: 'A modern modal popup for capturing newsletter signups with a friendly hero image, email field, opt-out checkbox, and clear call-to-action to boost conversions.',
     type: "registry:block",
-    dependencies: [""],
+    dependencies: [],
     registryDependencies: [
       "dialog",
       "button",
@@ -1225,7 +1225,7 @@ export const blocks: RegistryBlock[] = [
     figmaLink: "https://www.figma.com/design/xN0ICHXEd4moz5sfE5no4r/shadcnspace-figma-uikit-free?node-id=3678-6013&t=s6w7yYhqg5U0ajyZ-1",
     description: 'A minimal password recovery page that lets users request a secure reset link via email, helping reduce friction and support issues in authentication flows.',
     type: "registry:block",
-    dependencies: [""],
+    dependencies: [],
     registryDependencies: [
       "button",
       "card",
@@ -1316,7 +1316,7 @@ export const blocks: RegistryBlock[] = [
     figmaLink: "https://www.figma.com/design/xN0ICHXEd4moz5sfE5no4r/shadcnspace-figma-uikit-free?node-id=3678-6003&t=s6w7yYhqg5U0ajyZ-1",
     description: 'A clean, secure login page with Google and GitHub authentication, remember-me support, and password recovery, built for modern SaaS products using shadcn UI.',
     type: "registry:block",
-    dependencies: [""],
+    dependencies: [],
     registryDependencies: [
       "card",
       "button",
@@ -1349,7 +1349,7 @@ export const blocks: RegistryBlock[] = [
     title: 'Logo Cloud 01',
     description: 'A simple logo cloud built with Shadcn styling, using a subtle background, underlined heading, and a flexible grid of brand images that adapts smoothly across screen sizes.',
     type: "registry:block",
-    dependencies: [""],
+    dependencies: [],
     registryDependencies: [],
     iframeHeight: "500px",
     files: [{
@@ -1381,7 +1381,7 @@ export const blocks: RegistryBlock[] = [
     figmaLink: "https://www.figma.com/design/xN0ICHXEd4moz5sfE5no4r/shadcnspace-figma-uikit-free?node-id=3678-6008&t=s6w7yYhqg5U0ajyZ-1",
     description: 'A streamlined signup page with Google and GitHub authentication, clean form fields, and conversion-focused layout, perfect for SaaS onboarding built with shadcn UI.',
     type: "registry:block",
-    dependencies: [""],
+    dependencies: [],
     registryDependencies: [
       "card",
       "button",
@@ -1468,7 +1468,7 @@ export const blocks: RegistryBlock[] = [
     figmaLink: "https://www.figma.com/design/xN0ICHXEd4moz5sfE5no4r/shadcnspace-figma-uikit-free?node-id=3678-6022&t=s6w7yYhqg5U0ajyZ-1",
     description: 'A secure two-factor authentication screen with one-time code inputs and resend option, adding an extra protection layer to your SaaS login and user accounts.',
     type: "registry:block",
-    dependencies: [""],
+    dependencies: [],
     registryDependencies: [
       "card",
       "button",
@@ -1501,7 +1501,7 @@ export const blocks: RegistryBlock[] = [
     figmaLink: "https://www.figma.com/design/xN0ICHXEd4moz5sfE5no4r/shadcnspace-figma-uikit-free?node-id=3678-6018&t=s6w7yYhqg5U0ajyZ-1",
     description: 'A clean email verification screen that confirms account activation, guides users to check their inbox, and offers resend functionality for a smooth onboarding experience.',
     type: "registry:block",
-    dependencies: [""],
+    dependencies: [],
     registryDependencies: [
       "button",
       "card",

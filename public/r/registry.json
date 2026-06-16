@@ -614,9 +614,7 @@
       "title": "Contact 01 - Project Inquiry Contact Form",
       "description": "A conversion focused contact section with project inquiry form, contact details, and trust badges, ideal for agencies or freelancers to capture qualified leads and start meaningful client conversations.",
       "type": "registry:block",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [
         "card",
         "button",
@@ -1055,9 +1053,7 @@
       "title": "Dialog 01 - Newsletter Subscription Dialog",
       "description": "A modern modal popup for capturing newsletter signups with a friendly hero image, email field, opt-out checkbox, and clear call-to-action to boost conversions.",
       "type": "registry:block",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [
         "dialog",
         "button",
@@ -1083,9 +1079,7 @@
       "title": "Forgot Password 01 - Forgot Your Password Page",
       "description": "A minimal password recovery page that lets users request a secure reset link via email, helping reduce friction and support issues in authentication flows.",
       "type": "registry:block",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [
         "button",
         "card",
@@ -1159,9 +1153,7 @@
       "title": "Login 01 - Developer-Friendly Login Page",
       "description": "A clean, secure login page with Google and GitHub authentication, remember-me support, and password recovery, built for modern SaaS products using shadcn UI.",
       "type": "registry:block",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [
         "card",
         "button",
@@ -1187,9 +1179,7 @@
       "title": "Logo Cloud 01",
       "description": "A simple logo cloud built with Shadcn styling, using a subtle background, underlined heading, and a flexible grid of brand images that adapts smoothly across screen sizes.",
       "type": "registry:block",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [],
       "files": [
         {
@@ -1214,9 +1204,7 @@
       "title": "Register 01 - Simple & Secure Signup Page",
       "description": "A streamlined signup page with Google and GitHub authentication, clean form fields, and conversion-focused layout, perfect for SaaS onboarding built with shadcn UI.",
       "type": "registry:block",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [
         "card",
         "button",
@@ -1304,9 +1292,7 @@
       "title": "Two Factor Authentication 01 - Two-Factor Authentication Page",
       "description": "A secure two-factor authentication screen with one-time code inputs and resend option, adding an extra protection layer to your SaaS login and user accounts.",
       "type": "registry:block",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [
         "card",
         "button",
@@ -1331,9 +1317,7 @@
       "title": "Verify Email 01 - Email Verification Page",
       "description": "A clean email verification screen that confirms account activation, guides users to check their inbox, and offers resend functionality for a smooth onboarding experience.",
       "type": "registry:block",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [
         "button",
         "card",
@@ -1648,12 +1632,8 @@
       "title": "Marquee-02 - Brands",
       "description": "Brands marquee component",
       "type": "registry:component",
-      "dependencies": [
-        ""
-      ],
-      "registryDependencies": [
-        ""
-      ],
+      "dependencies": [],
+      "registryDependencies": [],
       "files": [
         {
           "path": "src/components/shadcn-space/marquee/marquee-02.tsx",
@@ -2619,9 +2599,7 @@
       "title": "Calendar 03 - Time calendar",
       "description": "Calendar component",
       "type": "registry:component",
-      "dependencies": [
-        ""
-      ],
+      "dependencies": [],
       "registryDependencies": [
         "calendar",
         "scrollarea",

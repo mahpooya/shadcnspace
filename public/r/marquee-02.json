@@ -3,12 +3,8 @@
   "name": "marquee-02",
   "title": "Marquee-02 - Brands",
   "description": "Brands marquee component",
-  "dependencies": [
-    ""
-  ],
-  "registryDependencies": [
-    ""
-  ],
+  "dependencies": [],
+  "registryDependencies": [],
   "files": [
     {
       "path": "src/components/shadcn-space/marquee/marquee-02.tsx",

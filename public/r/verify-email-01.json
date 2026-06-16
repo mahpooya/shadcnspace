@@ -3,9 +3,7 @@
   "name": "verify-email-01",
   "title": "Verify Email 01 - Email Verification Page",
   "description": "A clean email verification screen that confirms account activation, guides users to check their inbox, and offers resend functionality for a smooth onboarding experience.",
-  "dependencies": [
-    ""
-  ],
+  "dependencies": [],
   "registryDependencies": [
     "button",
     "card",

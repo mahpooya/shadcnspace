@@ -3,9 +3,7 @@
   "name": "register-01",
   "title": "Register 01 - Simple & Secure Signup Page",
   "description": "A streamlined signup page with Google and GitHub authentication, clean form fields, and conversion-focused layout, perfect for SaaS onboarding built with shadcn UI.",
-  "dependencies": [
-    ""
-  ],
+  "dependencies": [],
   "registryDependencies": [
     "card",
     "button",

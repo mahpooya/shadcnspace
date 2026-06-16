@@ -3,9 +3,7 @@
   "name": "dialog-block-01",
   "title": "Dialog 01 - Newsletter Subscription Dialog",
   "description": "A modern modal popup for capturing newsletter signups with a friendly hero image, email field, opt-out checkbox, and clear call-to-action to boost conversions.",
-  "dependencies": [
-    ""
-  ],
+  "dependencies": [],
   "registryDependencies": [
     "dialog",
     "button",

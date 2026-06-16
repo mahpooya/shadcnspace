@@ -3,9 +3,7 @@
   "name": "contact-01",
   "title": "Contact 01 - Project Inquiry Contact Form",
   "description": "A conversion focused contact section with project inquiry form, contact details, and trust badges, ideal for agencies or freelancers to capture qualified leads and start meaningful client conversations.",
-  "dependencies": [
-    ""
-  ],
+  "dependencies": [],
   "registryDependencies": [
     "card",
     "button",

@@ -3,9 +3,7 @@
   "name": "calendar-03",
   "title": "Calendar 03 - Time calendar",
   "description": "Calendar component",
-  "dependencies": [
-    ""
-  ],
+  "dependencies": [],
   "registryDependencies": [
     "calendar",
     "scrollarea",
